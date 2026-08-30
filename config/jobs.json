@@ -1,0 +1,14 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "available_from": "2027-01-01",
+  "max_listing_age_days": 14,
+  "max_alerts_per_run": 4,
+  "sources": [
+    {"name": "Restworld", "url": "https://www.restworld.it/cerco-lavoro", "parser": "restworld", "trust": "alta"},
+    {"name": "Rysto", "url": "https://www.rysto.com/it/c/italia", "parser": "rysto", "trust": "média"},
+    {"name": "RestartGO", "url": "https://www.restartgo.com/it/", "parser": "restartgo", "trust": "média"}
+  ],
+  "include_terms": ["cameriere", "barista", "barman", "banconista", "runner", "sala", "lavapiatti", "aiuto cuoco", "addetto", "commis", "receptionist", "housekeeping", "pizzaiolo", "gelatiere", "caffetteria", "hotel", "ristorazione"],
+  "exclude_terms": ["responsabile", "manager", "supervisor", "chef de rang", "capo partita", "cuoco unico", "direttore", "sommelier", "maitre", "maître"],
+  "non_italy_terms": ["francia", "france", "lyon", "versoix", "madrid", "spagna", "españa", "londra", "london", "germania", "germany", "svizzera", "switzerland"]
+}
