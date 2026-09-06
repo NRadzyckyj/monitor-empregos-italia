@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-05T13:39:44+00:00",
+  "updated_at": "2026-09-06T13:40:41+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-09-05T13:39:44+00:00",
+      "checked_at": "2026-09-06T13:40:41+00:00",
       "found": 49
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-09-05T13:39:44+00:00",
+      "checked_at": "2026-09-06T13:40:41+00:00",
       "found": 30
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-09-05T13:39:44+00:00",
-      "found": 6
+      "checked_at": "2026-09-06T13:40:41+00:00",
+      "found": 4
     }
   },
   "jobs": [
@@ -33,28 +33,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
-    },
-    {
-      "id": "400e21abe94b5b3af416",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Aiuto cuoco/a per birreria Aiuto cuoco",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-burago_di_molgora-njk",
-      "details": "Aiuto cuoco/a per birreria Aiuto cuoco€800-1000 Part time (meno di 40 ore settimanali) Ristorante TAVOLOZERO Burago di Molgora 02/09/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
-      "active": true,
-      "alerted_at": "2026-09-02T13:44:01+00:00"
     },
     {
       "id": "238aa4b676081d9f8db5",
@@ -71,7 +52,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
     },
@@ -90,7 +71,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -109,7 +90,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-02T13:44:01+00:00"
     },
@@ -119,7 +100,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per osteria informale Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-knj",
-      "details": "Cameriere/a per osteria informale Cameriere€900-1100 Part time (meno di 40 ore settimanali) ![Image 9](https://restworld-assets.s3.amazonaws.com/fc178d50045a42378445d0f7b522a83b.png?w=3840) Osteria Rabezzana Torino 03/09/26",
+      "details": "Cameriere/a per osteria informale Cameriere€900-1100 Part time (meno di 40 ore settimanali) ![Image 10](https://restworld-assets.s3.amazonaws.com/fc178d50045a42378445d0f7b522a83b.png?w=3840) Osteria Rabezzana Torino 03/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -128,7 +109,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-03T13:43:25+00:00"
     },
@@ -147,7 +128,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-03T13:43:25+00:00"
     },
@@ -166,7 +147,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -176,7 +157,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per pizzeria informale Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-lhx",
-      "details": "Cameriere/a per pizzeria informale Cameriere€700 Part time (meno di 40 ore settimanali) ![Image 5](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 04/09/26",
+      "details": "Cameriere/a per pizzeria informale Cameriere€700 Part time (meno di 40 ore settimanali) ![Image 6](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 04/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -185,7 +166,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
     },
@@ -204,7 +185,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -223,7 +204,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -242,7 +223,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
     },
@@ -261,9 +242,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
       "id": "be9dd8c7acebf11ac6d8",
@@ -279,9 +260,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
       "id": "c340d6acdd0b64cc61d5",
@@ -289,7 +270,7 @@
       "confidence": "alta",
       "title": "Addetto banco/a per locale greco Addetto banco",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-roma-fsz",
-      "details": "Addetto banco/a per locale greco Addetto banco€1400-1600 Full time (40 ore settimanali) ![Image 16](https://restworld-assets.s3.amazonaws.com/5216ef54a24e4169b7472fc7767a86c8.jpg?w=3840) Elleniko Cucina Greca Roma 02/09/26",
+      "details": "Addetto banco/a per locale greco Addetto banco€1400-1600 Full time (40 ore settimanali) ![Image 17](https://restworld-assets.s3.amazonaws.com/5216ef54a24e4169b7472fc7767a86c8.jpg?w=3840) Elleniko Cucina Greca Roma 02/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -297,9 +278,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
       "id": "3c3891b9ee336f0c83d6",
@@ -315,7 +296,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
+      "active": true,
+      "alerted_at": "2026-09-06T13:40:41+00:00"
+    },
+    {
+      "id": "beaa0a3ac07b5e8c91bf",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a caffetteria per bar Addetto caffetteria",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-caffetteria-milano_-qtg",
+      "details": "Addetto/a caffetteria per bar Addetto caffetteria€1500-1800 Full time (40 ore settimanali) Nuova apertura 🌍Milano 06/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-06T13:40:41+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -333,25 +332,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
     {
-      "id": "95e3fe70b30759bacc00",
+      "id": "78c5373751c46e96633c",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a cucina per ristorante Addetto cucina",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-venezia-ejm",
-      "details": "Addetto/a cucina per ristorante Addetto cucina€1400-1800 Full time (40 ore settimanali) Taverna da Baffo – Ristorante Veneziano Venezia 04/09/26",
+      "title": "Aiuto cuoco/a per bar Aiuto cuoco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-giussago-ato",
+      "details": "Aiuto cuoco/a per bar Aiuto cuoco€1800-2000 Full time (40 ore settimanali) Bar Maldiva Giussago 05/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "first_seen": "2026-09-06T13:40:41+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -369,7 +368,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "0222b82560a9491a8296",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/pasticciere/a per nuovo locale in Pordenone Aiuto pasticciere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-pasticciere-pordenone-aix",
+      "details": "Aiuto cuoco/pasticciere/a per nuovo locale in Pordenone Aiuto pasticciere€1500-2200 Full time (40 ore settimanali) NUOVA APERTURA A PORDENONE Pordenone 05/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-06T13:40:41+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -387,7 +404,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -405,7 +422,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -415,7 +432,7 @@
       "confidence": "alta",
       "title": "Banconista bar per panificio con bar Banconista bar",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-milano-cmr",
-      "details": "Banconista bar per panificio con bar Banconista bar€1400-1600 Full time (40 ore settimanali) ![Image 7](https://restworld-assets.s3.amazonaws.com/cae9f304156e48348de58a9e57b4aded.png?w=3840) Forno di Barona Milano 03/09/26",
+      "details": "Banconista bar per panificio con bar Banconista bar€1400-1600 Full time (40 ore settimanali) ![Image 8](https://restworld-assets.s3.amazonaws.com/cae9f304156e48348de58a9e57b4aded.png?w=3840) Forno di Barona Milano 03/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -423,7 +440,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -441,7 +458,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -459,7 +476,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -477,7 +494,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -487,7 +504,7 @@
       "confidence": "alta",
       "title": "Banconista per salumeria in zona Wagner Banconista gastronomia",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-gastronomia-milano-zdf",
-      "details": "Banconista per salumeria in zona Wagner Banconista gastronomia€1500-1700 Full time (40 ore settimanali) ![Image 12](https://restworld-assets.s3.amazonaws.com/8fe7157c8a5842da9b5f010f7fdab2d8.jpg?w=3840) Elleesse Formaggi Di Lettieri Stefano Milano 03/09/26",
+      "details": "Banconista per salumeria in zona Wagner Banconista gastronomia€1500-1700 Full time (40 ore settimanali) ![Image 13](https://restworld-assets.s3.amazonaws.com/8fe7157c8a5842da9b5f010f7fdab2d8.jpg?w=3840) Elleesse Formaggi Di Lettieri Stefano Milano 03/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -495,7 +512,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -513,7 +530,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -531,7 +548,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -541,7 +558,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per hotel ristorante informale Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-antey-saint-andre-kiy",
-      "details": "Cameriere/a per hotel ristorante informale Cameriere€1700-2000 Full time (40 ore settimanali) ![Image 11](https://restworld-assets.s3.amazonaws.com/88aa4ee631624a25a6a68a9a1eb1c238.jpg?w=3840) Albergo Maison Tissiere Antey-Saint-André 03/09/26",
+      "details": "Cameriere/a per hotel ristorante informale Cameriere€1700-2000 Full time (40 ore settimanali) ![Image 12](https://restworld-assets.s3.amazonaws.com/88aa4ee631624a25a6a68a9a1eb1c238.jpg?w=3840) Albergo Maison Tissiere Antey-Saint-André 03/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -549,7 +566,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -567,25 +584,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
     {
-      "id": "e8528e191cb65e424f86",
+      "id": "250827ffe6fbcb7da0b0",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-verona-aga",
-      "details": "Cameriere/a per trattoria Cameriere€1500-1800 Full time (40 ore settimanali) Il Vicoletto Trattoria Verona 02/09/26",
+      "title": "Cameriere/a per ristorante in montagna Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-livigno-xqu",
+      "details": "Cameriere/a per ristorante in montagna Cameriere€2200-2400 Full time (40 ore settimanali) ![Image 5](https://restworld-assets.s3.amazonaws.com/f76a8f3f13234365a6facf9f4828154d.jpg?w=3840) Kosmo Taste the Mountain Livigno 06/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "first_seen": "2026-09-06T13:40:41+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -603,7 +620,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -621,7 +638,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -638,24 +655,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "69b74ecf1d8289d5b510",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Barista con Esperienza",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/barista-con-esperienza-2",
-      "details": "Annunci dalla rete | Barista | Milano | 03 Set 2026 | Barista con Esperienza – Caffè Diamante, Milano Cercasi barista per inserimento immediato... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-06T13:40:41+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -772,6 +772,25 @@
       "last_seen": "2026-09-01T13:43:34+00:00",
       "active": false,
       "alerted_at": "2026-08-31T13:38:18+00:00"
+    },
+    {
+      "id": "400e21abe94b5b3af416",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per birreria Aiuto cuoco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-burago_di_molgora-njk",
+      "details": "Aiuto cuoco/a per birreria Aiuto cuoco€800-1000 Part time (meno di 40 ore settimanali) Ristorante TAVOLOZERO Burago di Molgora 02/09/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-02T13:44:01+00:00",
+      "last_seen": "2026-09-05T13:39:44+00:00",
+      "active": false,
+      "alerted_at": "2026-09-02T13:44:01+00:00"
     },
     {
       "id": "5a2dafa8d1b8621ad2aa",
@@ -1198,6 +1217,24 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-30T23:36:46+00:00",
       "last_seen": "2026-08-31T13:38:18+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "95e3fe70b30759bacc00",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per ristorante Addetto cucina",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-venezia-ejm",
+      "details": "Addetto/a cucina per ristorante Addetto cucina€1400-1800 Full time (40 ore settimanali) Taverna da Baffo – Ristorante Veneziano Venezia 04/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-04T13:43:23+00:00",
+      "last_seen": "2026-09-05T13:39:44+00:00",
       "active": false,
       "alerted_at": null
     },
@@ -1760,6 +1797,24 @@
       "alerted_at": null
     },
     {
+      "id": "e8528e191cb65e424f86",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per trattoria Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-verona-aga",
+      "details": "Cameriere/a per trattoria Cameriere€1500-1800 Full time (40 ore settimanali) Il Vicoletto Trattoria Verona 02/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-05T13:39:44+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
       "id": "e1b578204aa5bc99974c",
       "source": "Restworld",
       "confidence": "alta",
@@ -1953,6 +2008,23 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
       "last_seen": "2026-09-03T13:43:25+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "69b74ecf1d8289d5b510",
+      "source": "RestartGO",
+      "confidence": "média",
+      "title": "Barista con Esperienza",
+      "url": "https://www.restartgo.com/it/offerta-lavoro/barista-con-esperienza-2",
+      "details": "Annunci dalla rete | Barista | Milano | 03 Set 2026 | Barista con Esperienza – Caffè Diamante, Milano Cercasi barista per inserimento immediato... Standard",
+      "priority": 1,
+      "reasons": [
+        "sem experiência longa explícita"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-04T13:43:23+00:00",
+      "last_seen": "2026-09-05T13:39:44+00:00",
       "active": false,
       "alerted_at": null
     },
