@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-07T13:45:03+00:00",
+  "updated_at": "2026-09-08T13:45:17+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-09-07T13:45:03+00:00",
+      "checked_at": "2026-09-08T13:45:17+00:00",
       "found": 49
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-09-07T13:45:03+00:00",
+      "checked_at": "2026-09-08T13:45:17+00:00",
       "found": 30
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-09-07T13:45:03+00:00",
-      "found": 6
+      "checked_at": "2026-09-08T13:45:17+00:00",
+      "found": 5
     }
   },
   "jobs": [
@@ -24,7 +24,7 @@
       "confidence": "alta",
       "title": "Addetto banco/a per pane e pasticceria Addetto banco",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-castel_maggiore-obc",
-      "details": "Addetto banco/a per pane e pasticceria Addetto banco€1466-1557 Part time (meno di 40 ore settimanali) ![Image 6](https://restworld-assets.s3.amazonaws.com/95c1d0bb613b4ac1919888a92d70ac5f_orig.jpg?w=3840) Antichi Sapori Castel Maggiore 07/09/26",
+      "details": "Addetto banco/a per pane e pasticceria Addetto banco€1466-1557 Part time (meno di 40 ore settimanali) ![Image 13](https://restworld-assets.s3.amazonaws.com/95c1d0bb613b4ac1919888a92d70ac5f_orig.jpg?w=3840) Antichi Sapori Castel Maggiore 07/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -33,7 +33,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-07T13:45:03+00:00"
     },
@@ -52,28 +52,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-07T13:45:03+00:00"
-    },
-    {
-      "id": "2fdc24b0c07a30dbeb96",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Addetto cucina/a per birreria Addetto cucina",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bologna-rnn",
-      "details": "Addetto cucina/a per birreria Addetto cucina€900 Part time (meno di 40 ore settimanali) Cafè Birreria Belmeloro Bologna 05/09/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": "2026-09-05T13:39:44+00:00"
     },
     {
       "id": "2dcf938f5560b5247e84",
@@ -81,7 +62,7 @@
       "confidence": "alta",
       "title": "Addetto/a caffetteria per caffetteria informale Addetto caffetteria",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-caffetteria-castel_maggiore-woe",
-      "details": "Addetto/a caffetteria per caffetteria informale Addetto caffetteria€1466-1557 Part time (meno di 40 ore settimanali) ![Image 5](https://restworld-assets.s3.amazonaws.com/95c1d0bb613b4ac1919888a92d70ac5f_orig.jpg?w=3840) Antichi Sapori Castel Maggiore 07/09/26",
+      "details": "Addetto/a caffetteria per caffetteria informale Addetto caffetteria€1466-1557 Part time (meno di 40 ore settimanali) ![Image 12](https://restworld-assets.s3.amazonaws.com/95c1d0bb613b4ac1919888a92d70ac5f_orig.jpg?w=3840) Antichi Sapori Castel Maggiore 07/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -90,7 +71,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-07T13:45:03+00:00"
     },
@@ -100,7 +81,7 @@
       "confidence": "alta",
       "title": "Addetto/a pulizie per resort Addetto pulizie",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-pulizie-sillavengo-fqr",
-      "details": "Addetto/a pulizie per resort Addetto pulizie€1400-1600 Part time (meno di 40 ore settimanali) ![Image 13](https://restworld-assets.s3.amazonaws.com/b90e5da0a6ec43c5a8164dde463fcd6f.jpg?w=3840) Resort Al Castello Sillavengo 06/09/26",
+      "details": "Addetto/a pulizie per resort Addetto pulizie€1400-1600 Part time (meno di 40 ore settimanali) ![Image 20](https://restworld-assets.s3.amazonaws.com/b90e5da0a6ec43c5a8164dde463fcd6f.jpg?w=3840) Resort Al Castello Sillavengo 06/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -109,7 +90,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-07T13:45:03+00:00"
     },
@@ -128,7 +109,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
     },
@@ -147,7 +128,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -166,28 +147,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "0998252a54d65028e10b",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per osteria informale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-knj",
-      "details": "Cameriere/a per osteria informale Cameriere€900-1100 Part time (meno di 40 ore settimanali) ![Image 18](https://restworld-assets.s3.amazonaws.com/fc178d50045a42378445d0f7b522a83b.png?w=3840) Osteria Rabezzana Torino 03/09/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": "2026-09-03T13:43:25+00:00"
+      "alerted_at": "2026-09-08T13:45:17+00:00"
     },
     {
       "id": "256bbec5703152cafc01",
@@ -195,7 +157,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per pizzeria informale Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-lhx",
-      "details": "Cameriere/a per pizzeria informale Cameriere€700 Part time (meno di 40 ore settimanali) ![Image 14](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 04/09/26",
+      "details": "Cameriere/a per pizzeria informale Cameriere€700 Part time (meno di 40 ore settimanali) ![Image 21](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 04/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -204,17 +166,17 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
     },
     {
-      "id": "ddef7588e474f3ab6b20",
+      "id": "f98b4dacd461417558bb",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-capo-pizzaiolo-gatteo_a_mare-ahd",
-      "details": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo€1600-1800 Part time (meno di 40 ore settimanali) Il Girasole di Batti | Pizzeria e Cucina Gatteo Mare Gatteo a Mare 02/09/26",
+      "title": "Cameriere/a per ristorante di pesce Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-san_martino_siccomario-xcj",
+      "details": "Cameriere/a per ristorante di pesce Cameriere€21000 Part time (meno di 40 ore settimanali) Odissea seafood experience San Martino Siccomario 08/09/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -222,10 +184,10 @@
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
-      "alerted_at": "2026-09-04T13:43:23+00:00"
+      "alerted_at": "2026-09-08T13:45:17+00:00"
     },
     {
       "id": "a79e6b9438a97c67ff7d",
@@ -242,9 +204,28 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-05T13:39:44+00:00"
+    },
+    {
+      "id": "d00bee19fd622846d9bd",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a per piadineria e pizzeria Pizzaiolo",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-loano-xpn",
+      "details": "Pizzaiolo/a per piadineria e pizzeria Pizzaiolo€1300-1500 Part time (meno di 40 ore settimanali) La Piadella Loano Loano 08/09/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": "2026-09-08T13:45:17+00:00"
     },
     {
       "id": "be9dd8c7acebf11ac6d8",
@@ -260,27 +241,45 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
-      "id": "3c3891b9ee336f0c83d6",
+      "id": "7e0d4e28c668bd9830d0",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a ai piatti caldi per locale Addetto ai piatti caldi",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-ai-piatti-caldi-stuttgart-bwp",
-      "details": "Addetto/a ai piatti caldi per locale Addetto ai piatti caldi€4000 Full time Colvino Stuttgart🌍Stuttgart 04/09/26",
+      "title": "Addetto banco/a per enoteca Addetto banco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-pisa-ibc",
+      "details": "Addetto banco/a per enoteca Addetto banco€1400 Full time ![Image 5](https://restworld-assets.s3.amazonaws.com/9daa34b2e47345e8b074284398096d2c_orig.jpg?w=3840) Bottega urbana Pisa 08/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
-      "alerted_at": "2026-09-06T13:40:41+00:00"
+      "alerted_at": "2026-09-08T13:45:17+00:00"
+    },
+    {
+      "id": "bf93d3cfee420e56292e",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto banco/a per pasticceria Addetto banco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-milano-dzb",
+      "details": "Addetto banco/a per pasticceria Addetto banco€1500-1800 Full time Marotin 🌍Milano 08/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
     },
     {
       "id": "beaa0a3ac07b5e8c91bf",
@@ -296,7 +295,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-06T13:40:41+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -314,7 +313,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "3a9e4146e2c7166220da",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a caffetteria per pasticceria Addetto caffetteria",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-caffetteria-milano-nwn",
+      "details": "Addetto/a caffetteria per pasticceria Addetto caffetteria€1500-1800 Full time Tiemì Milano 08/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -332,7 +349,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-06T13:40:41+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "e60d316ce8f9cf0c9739",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per ristorante pizzeria informale Aiuto cuoco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-fara_gera_d-adda-zqn",
+      "details": "Aiuto cuoco/a per ristorante pizzeria informale Aiuto cuoco€1500-2000 Full time ![Image 8](https://restworld-assets.s3.amazonaws.com/5976989ae4dc472baaf73eaec21e5bfa_orig.jpg?w=3840) Trattoria Primavera Badalasco Fara Gera d'Adda 08/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -350,7 +385,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -368,7 +403,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-06T13:40:41+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -378,7 +413,7 @@
       "confidence": "alta",
       "title": "Aiuto pizzaiolo/a per pizzeria informale Aiuto pizzaiolo",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-pizzaiolo-torino-shc",
-      "details": "Aiuto pizzaiolo/a per pizzeria informale Aiuto pizzaiolo€1250-1350 Full time ![Image 11](https://restworld-assets.s3.amazonaws.com/a77c5762fe6b4789b57475fe8d872b3b.jpg?w=3840) Mangia Mangia (Torino)Torino 07/09/26",
+      "details": "Aiuto pizzaiolo/a per pizzeria informale Aiuto pizzaiolo€1250-1350 Full time ![Image 18](https://restworld-assets.s3.amazonaws.com/a77c5762fe6b4789b57475fe8d872b3b.jpg?w=3840) Mangia Mangia (Torino)Torino 07/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -386,7 +421,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -404,25 +439,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "1ca37568272452408576",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Banconista bar per panificio con bar Banconista bar",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-milano-cmr",
-      "details": "Banconista bar per panificio con bar Banconista bar€1400-1600 Full time ![Image 16](https://restworld-assets.s3.amazonaws.com/cae9f304156e48348de58a9e57b4aded.png?w=3840) Forno di Barona Milano 03/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -440,25 +457,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-05T13:39:44+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "fc38465bf81a4b2b545d",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Banconista per salumeria in zona Wagner Banconista gastronomia",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-gastronomia-milano-zdf",
-      "details": "Banconista per salumeria in zona Wagner Banconista gastronomia€1500-1700 Full time ![Image 20](https://restworld-assets.s3.amazonaws.com/8fe7157c8a5842da9b5f010f7fdab2d8.jpg?w=3840) Elleesse Formaggi Di Lettieri Stefano Milano 03/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -468,7 +467,7 @@
       "confidence": "alta",
       "title": "Banconista pub per pub informale Banconista pub",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-pub-milano-oww",
-      "details": "Banconista pub per pub informale Banconista pub€1400-1700 Full time ![Image 10](https://restworld-assets.s3.amazonaws.com/4def8757adb6461e86f552fba19f9644.png?w=3840) Cheers Pub Milano 07/09/26",
+      "details": "Banconista pub per pub informale Banconista pub€1400-1700 Full time ![Image 17](https://restworld-assets.s3.amazonaws.com/4def8757adb6461e86f552fba19f9644.png?w=3840) Cheers Pub Milano 07/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -476,7 +475,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -494,7 +493,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-04T13:43:23+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "21c6409e698eec7dc8c8",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per bistrot Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-varazze-zqy",
+      "details": "Cameriere/a per bistrot Cameriere€28000 Full time San Carlo Bistrot Varazze 07/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -504,7 +521,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per caffetteria Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-suw",
-      "details": "Cameriere/a per caffetteria Cameriere€24000-25000 Full time ![Image 9](https://restworld-assets.s3.amazonaws.com/ff247a5589fc40cb996dcc20696b9030_orig.jpg?w=3840) Ditta Artigianale Specialty Coffee Roasters Milano 07/09/26",
+      "details": "Cameriere/a per caffetteria Cameriere€24000-25000 Full time ![Image 16](https://restworld-assets.s3.amazonaws.com/ff247a5589fc40cb996dcc20696b9030_orig.jpg?w=3840) Ditta Artigianale Specialty Coffee Roasters Milano 07/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -512,43 +529,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "1595c4c027126108dc56",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per caffetteria bistrot e cocktail bar Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-roma-nyj",
-      "details": "Cameriere/a per caffetteria bistrot e cocktail bar Cameriere€1250-1450 Full time Mister TAMO Roma 03/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "da7fc65eab5df1e13755",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel ristorante informale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-antey-saint-andre-kiy",
-      "details": "Cameriere/a per hotel ristorante informale Cameriere€1700-2000 Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/88aa4ee631624a25a6a68a9a1eb1c238.jpg?w=3840) Albergo Maison Tissiere Antey-Saint-André 03/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -566,7 +547,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -584,7 +565,43 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "b5de1b83e0425e95f024",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per pizzeria Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-fermo-uzj",
+      "details": "Cameriere/a per pizzeria Cameriere€1300-1600 Full time Fermo 08/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "80b79f04b87363e1a8a4",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per ristorante formale Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-umm",
+      "details": "Cameriere/a per ristorante formale Cameriere€1800-3000 Full time ![Image 9](https://restworld-assets.s3.amazonaws.com/2ecc40b755274149baef0d54e2d240ba.jpg?w=3840) Varrone - Carne Milano 08/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -602,7 +619,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -612,7 +629,7 @@
       "confidence": "alta",
       "title": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-capo-pizzaiolo-cenate_sopra-uqs",
-      "details": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo€1700-2000 Full time ![Image 12](https://restworld-assets.s3.amazonaws.com/be67612fe5f74ec0803cfbc952f3e191.jpg?w=3840) Ristorante pizzeria degli Olivi Cenate Sopra 06/09/26",
+      "details": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo€1700-2000 Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/be67612fe5f74ec0803cfbc952f3e191.jpg?w=3840) Ristorante pizzeria degli Olivi Cenate Sopra 06/09/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -620,7 +637,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "1d5fd52c2b58310e0003",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Runner per bistrot Runner",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-runner-varazze-qag",
+      "details": "Runner per bistrot Runner€21000-23000 Full time San Carlo Bistrot Varazze 07/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -637,41 +672,24 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
     {
-      "id": "16ecd70ba612c99ab48a",
+      "id": "107093b6a9d008472318",
       "source": "RestartGO",
       "confidence": "média",
-      "title": "Cameriere",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/cameriere-13",
-      "details": "Annunci dalla rete | Cameriere | Roma | 06 Set 2026 | Cameriere – Ristorante Messicano, Roma Un ristorante messicano in zona Prati, Roma... Standard",
+      "title": "Cuoco / Aiuto Cuoco",
+      "url": "https://www.restartgo.com/it/offerta-lavoro/cuoco-aiuto-cuoco-9",
+      "details": "Annunci dalla rete | Aiuto cuoco | Marta | 07 Set 2026 | Cuoco / Aiuto Cuoco – Ristorante Otello, Marta Il Ristorante Otello cerca... Standard",
       "priority": 1,
       "reasons": [
         "sem experiência longa explícita"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "ab256c9097ffe396da54",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Sicilia In Tavola",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/sicilia-in-tavola",
-      "details": "Annunci dalla rete | Cameriere | Siracusa | 06 Set 2026 | Personale di Sala – Ristorante Sicilia in Tavola, Siracusa Il ristorante Sicilia... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
+      "first_seen": "2026-09-08T13:45:17+00:00",
+      "last_seen": "2026-09-08T13:45:17+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -712,6 +730,25 @@
       "last_seen": "2026-09-02T13:44:01+00:00",
       "active": false,
       "alerted_at": "2026-09-01T13:43:34+00:00"
+    },
+    {
+      "id": "2fdc24b0c07a30dbeb96",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto cucina/a per birreria Addetto cucina",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bologna-rnn",
+      "details": "Addetto cucina/a per birreria Addetto cucina€900 Part time (meno di 40 ore settimanali) Cafè Birreria Belmeloro Bologna 05/09/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": "2026-09-05T13:39:44+00:00"
     },
     {
       "id": "8f0a40288bc77aa9857f",
@@ -980,6 +1017,25 @@
       "alerted_at": null
     },
     {
+      "id": "0998252a54d65028e10b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per osteria informale Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-knj",
+      "details": "Cameriere/a per osteria informale Cameriere€900-1100 Part time (meno di 40 ore settimanali) ![Image 18](https://restworld-assets.s3.amazonaws.com/fc178d50045a42378445d0f7b522a83b.png?w=3840) Osteria Rabezzana Torino 03/09/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": "2026-09-03T13:43:25+00:00"
+    },
+    {
       "id": "0d8b1db185bb78955bf9",
       "source": "Restworld",
       "confidence": "alta",
@@ -1090,6 +1146,25 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
       "last_seen": "2026-09-06T13:40:41+00:00",
+      "active": false,
+      "alerted_at": "2026-09-04T13:43:23+00:00"
+    },
+    {
+      "id": "ddef7588e474f3ab6b20",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-capo-pizzaiolo-gatteo_a_mare-ahd",
+      "details": "Capo pizzaiolo/a per pizzeria Capo pizzaiolo€1600-1800 Part time (meno di 40 ore settimanali) Il Girasole di Batti | Pizzeria e Cucina Gatteo Mare Gatteo a Mare 02/09/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
       "active": false,
       "alerted_at": "2026-09-04T13:43:23+00:00"
     },
@@ -1258,6 +1333,24 @@
       "last_seen": "2026-09-02T13:44:01+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "3c3891b9ee336f0c83d6",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a ai piatti caldi per locale Addetto ai piatti caldi",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-ai-piatti-caldi-stuttgart-bwp",
+      "details": "Addetto/a ai piatti caldi per locale Addetto ai piatti caldi€4000 Full time Colvino Stuttgart🌍Stuttgart 04/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-05T13:39:44+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
       "id": "7aabbc09c53f546523d1",
@@ -1584,6 +1677,24 @@
       "alerted_at": null
     },
     {
+      "id": "1ca37568272452408576",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per panificio con bar Banconista bar",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-milano-cmr",
+      "details": "Banconista bar per panificio con bar Banconista bar€1400-1600 Full time ![Image 16](https://restworld-assets.s3.amazonaws.com/cae9f304156e48348de58a9e57b4aded.png?w=3840) Forno di Barona Milano 03/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-04T13:43:23+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
       "id": "cb8158f83d75aaf3a7c4",
       "source": "Restworld",
       "confidence": "alta",
@@ -1616,6 +1727,24 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-02T13:44:01+00:00",
       "last_seen": "2026-09-06T13:40:41+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "fc38465bf81a4b2b545d",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista per salumeria in zona Wagner Banconista gastronomia",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-gastronomia-milano-zdf",
+      "details": "Banconista per salumeria in zona Wagner Banconista gastronomia€1500-1700 Full time ![Image 20](https://restworld-assets.s3.amazonaws.com/8fe7157c8a5842da9b5f010f7fdab2d8.jpg?w=3840) Elleesse Formaggi Di Lettieri Stefano Milano 03/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
       "active": false,
       "alerted_at": null
     },
@@ -1710,6 +1839,24 @@
       "alerted_at": null
     },
     {
+      "id": "1595c4c027126108dc56",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per caffetteria bistrot e cocktail bar Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-roma-nyj",
+      "details": "Cameriere/a per caffetteria bistrot e cocktail bar Cameriere€1250-1450 Full time Mister TAMO Roma 03/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
       "id": "cddadd047345941dbb53",
       "source": "Restworld",
       "confidence": "alta",
@@ -1796,6 +1943,24 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-01T13:43:34+00:00",
       "last_seen": "2026-09-01T13:43:34+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "da7fc65eab5df1e13755",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per hotel ristorante informale Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-antey-saint-andre-kiy",
+      "details": "Cameriere/a per hotel ristorante informale Cameriere€1700-2000 Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/88aa4ee631624a25a6a68a9a1eb1c238.jpg?w=3840) Albergo Maison Tissiere Antey-Saint-André 03/09/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-03T13:43:25+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
       "active": false,
       "alerted_at": null
     },
@@ -2284,6 +2449,23 @@
       "alerted_at": null
     },
     {
+      "id": "16ecd70ba612c99ab48a",
+      "source": "RestartGO",
+      "confidence": "média",
+      "title": "Cameriere",
+      "url": "https://www.restartgo.com/it/offerta-lavoro/cameriere-13",
+      "details": "Annunci dalla rete | Cameriere | Roma | 06 Set 2026 | Cameriere – Ristorante Messicano, Roma Un ristorante messicano in zona Prati, Roma... Standard",
+      "priority": 1,
+      "reasons": [
+        "sem experiência longa explícita"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
       "id": "172f409b76ad194d035d",
       "source": "RestartGO",
       "confidence": "média",
@@ -2348,6 +2530,23 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
       "last_seen": "2026-09-03T13:43:25+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "ab256c9097ffe396da54",
+      "source": "RestartGO",
+      "confidence": "média",
+      "title": "Sicilia In Tavola",
+      "url": "https://www.restartgo.com/it/offerta-lavoro/sicilia-in-tavola",
+      "details": "Annunci dalla rete | Cameriere | Siracusa | 06 Set 2026 | Personale di Sala – Ristorante Sicilia in Tavola, Siracusa Il ristorante Sicilia... Standard",
+      "priority": 1,
+      "reasons": [
+        "sem experiência longa explícita"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-09-07T13:45:03+00:00",
+      "last_seen": "2026-09-07T13:45:03+00:00",
       "active": false,
       "alerted_at": null
     }
