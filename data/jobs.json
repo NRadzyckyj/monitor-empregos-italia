@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-23T17:56:05+00:00",
+  "updated_at": "2026-10-24T16:51:30+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-10-23T17:56:05+00:00",
+      "checked_at": "2026-10-24T16:51:30+00:00",
       "found": 50
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-10-23T17:56:05+00:00",
+      "checked_at": "2026-10-24T16:51:30+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-10-23T17:56:05+00:00",
+      "checked_at": "2026-10-24T16:51:30+00:00",
       "found": 0
     }
   },
@@ -24,7 +24,7 @@
       "confidence": "alta",
       "title": "Addetto banco/a part-time a pranzo per locale specializzato in BBQ Americano Addetto banco",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-cadoneghe-buj",
-      "details": "Addetto banco/a part-time a pranzo per locale specializzato in BBQ Americano Addetto banco€800 - 900 netti Part time ![Image 17](https://restworld-assets.s3.amazonaws.com/0ea8808d9567409ab56dc620e4ce61b1.jpg?w=3840) Qualter - Cadoneghe Cadoneghe 20/10/26",
+      "details": "Addetto banco/a part-time a pranzo per locale specializzato in BBQ Americano Addetto banco€800 - 900 netti Part time ![Image 16](https://restworld-assets.s3.amazonaws.com/0ea8808d9567409ab56dc620e4ce61b1.jpg?w=3840) Qualter - Cadoneghe Cadoneghe 20/10/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -33,7 +33,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-20T18:04:45+00:00"
     },
@@ -52,28 +52,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-22T18:07:19+00:00"
-    },
-    {
-      "id": "4e05b37733c8368164dd",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Addetto pulizie/a per pizzeria Addetto pulizie",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-pulizie-torino-ita",
-      "details": "Addetto pulizie/a per pizzeria Addetto pulizie€550 netti Part time ![Image 18](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 20/10/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
-      "active": true,
-      "alerted_at": "2026-10-20T18:04:45+00:00"
     },
     {
       "id": "50ac6cadf0273bee1a95",
@@ -90,7 +71,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-21T18:12:37+00:00"
     },
@@ -109,7 +90,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-22T18:07:19+00:00"
     },
@@ -128,7 +109,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-22T18:07:19+00:00"
     },
@@ -147,7 +128,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-23T17:56:05+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-23T17:56:05+00:00"
     },
@@ -157,7 +138,7 @@
       "confidence": "alta",
       "title": "Cameriere/a per osteria Cameriere",
       "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bologna-vdq",
-      "details": "Cameriere/a per osteria Cameriere€1.600 netti Part time ![Image 14](https://restworld-assets.s3.amazonaws.com/c87d617413c84e5284d040afdee69d45.jpg?w=3840) Le Moline Bologna 21/10/26",
+      "details": "Cameriere/a per osteria Cameriere€1.600 netti Part time ![Image 13](https://restworld-assets.s3.amazonaws.com/c87d617413c84e5284d040afdee69d45.jpg?w=3840) Le Moline Bologna 21/10/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -166,7 +147,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-21T18:12:37+00:00"
     },
@@ -185,7 +166,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-23T17:56:05+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-23T17:56:05+00:00"
     },
@@ -204,28 +185,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-22T18:07:19+00:00"
-    },
-    {
-      "id": "f9a47bbcb0b607d67c5b",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per ristorante Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-hte",
-      "details": "Cameriere/a per ristorante Cameriere€800 - 850 netti Part time Ristorante Cascina Bellaria Milano 20/10/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
-      "active": true,
-      "alerted_at": "2026-10-20T18:04:45+00:00"
     },
     {
       "id": "4d83753024b043dcd17b",
@@ -242,7 +204,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-23T17:56:05+00:00"
     },
@@ -260,7 +222,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-19T19:25:52+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-19T19:25:52+00:00"
     },
@@ -283,24 +245,6 @@
       "alerted_at": "2026-09-06T13:40:41+00:00"
     },
     {
-      "id": "897c8f7d5c677fcc7e45",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Addetto cucina/a per pub informale Addetto cucina",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-milano-lcj",
-      "details": "Addetto cucina/a per pub informale Addetto cucina€1.400 netti Full time ![Image 21](https://restworld-assets.s3.amazonaws.com/4def8757adb6461e86f552fba19f9644.png?w=3840) Cheers Pub Milano 19/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-19T19:25:52+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
-      "active": true,
-      "alerted_at": "2026-10-21T18:12:37+00:00"
-    },
-    {
       "id": "a23abd9066657ee6e194",
       "source": "Restworld",
       "confidence": "alta",
@@ -314,7 +258,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-21T18:12:37+00:00"
     },
@@ -332,7 +276,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": "2026-10-23T17:56:05+00:00"
     },
@@ -350,9 +294,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-10-24T16:51:30+00:00"
     },
     {
       "id": "73f2c7375d37daff58f7",
@@ -368,9 +312,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-10-24T16:51:30+00:00"
     },
     {
       "id": "6728ce458c6b4b693ddf",
@@ -386,9 +330,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-10-24T16:51:30+00:00"
     },
     {
       "id": "f0a5d5d03d8e992e7d98",
@@ -404,9 +348,9 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-10-24T16:51:30+00:00"
     },
     {
       "id": "457b09136c5a57d001c5",
@@ -422,7 +366,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -440,25 +384,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "6493c5f8e15ebb885bec",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Aiuto cuoco/a per ristorante formale Aiuto cuoco",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-milano-ilm",
-      "details": "Aiuto cuoco/a per ristorante formale Aiuto cuoco€20k - 24k RAL Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/eb64e0e52acd4f6fab9a66e15c24a0f4.jpg?w=3840) Manna Milano 20/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -476,7 +402,25 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "63b1f4739e1ad8c13214",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per pasticceria Banconista bar",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-roma-dnq",
+      "details": "Banconista bar per pasticceria Banconista bar€22k - 26k RAL Full time Pompi | Ponte Milvio Roma 24/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-24T16:51:30+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -494,25 +438,61 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-23T17:56:05+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
     {
-      "id": "f2faf67932acfa89a34d",
+      "id": "26a19a53c3bea079c43f",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a ai piani per hotel Cameriere ai piani",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ai-piani-riale-aab",
-      "details": "Cameriere/a ai piani per hotel Cameriere ai piani€1.450 - 2.200 lordi Full time Aalts Dorf Riale 19/10/26",
+      "title": "Cameriere/a per caffetteria Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-zvi",
+      "details": "Cameriere/a per caffetteria Cameriere€22.3k - 24k RAL Full time Ditta Artigianale Firenze S.r.l.Milano 24/10/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-19T19:25:52+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "first_seen": "2026-10-24T16:51:30+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "6d115a738cb08914b835",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per circolo culturale Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-xtw",
+      "details": "Cameriere/a per circolo culturale Cameriere€1.600 - 1.800 netti Full time Circolo Arci Bellezza Milano 24/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-24T16:51:30+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "812d8a3b2158a565e101",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per pizzeria Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-gpz",
+      "details": "Cameriere/a per pizzeria Cameriere€1.600 - 2.000 lordi Full time Pizzeria da Mammà Milano 24/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-24T16:51:30+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -530,7 +510,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-23T17:56:05+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -548,7 +528,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -566,7 +546,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -584,7 +564,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -602,25 +582,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-20T18:04:45+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "e80e6f93eef71e0aa8a9",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Receptionist per agriturismo Receptionist",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-receptionist-roma-nkd",
-      "details": "Receptionist per agriturismo Receptionist€1.400 - 1.600 netti Full time Il Casale Di Roma Roma 21/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-21T18:12:37+00:00",
-      "last_seen": "2026-10-23T17:56:05+00:00",
+      "last_seen": "2026-10-24T16:51:30+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -1134,6 +1096,25 @@
       "last_seen": "2026-09-15T13:44:52+00:00",
       "active": false,
       "alerted_at": "2026-09-12T13:40:41+00:00"
+    },
+    {
+      "id": "4e05b37733c8368164dd",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto pulizie/a per pizzeria Addetto pulizie",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-pulizie-torino-ita",
+      "details": "Addetto pulizie/a per pizzeria Addetto pulizie€550 netti Part time ![Image 18](https://restworld-assets.s3.amazonaws.com/596a19d4c27541b3b6aa02b8ee81889e.png?w=3840) Pizzeria Fratelli Roselli Torino 20/10/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-20T18:04:45+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
+      "active": false,
+      "alerted_at": "2026-10-20T18:04:45+00:00"
     },
     {
       "id": "29685f2d53366c844f20",
@@ -2808,6 +2789,25 @@
       "alerted_at": null
     },
     {
+      "id": "f9a47bbcb0b607d67c5b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per ristorante Cameriere",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-hte",
+      "details": "Cameriere/a per ristorante Cameriere€800 - 850 netti Part time Ristorante Cascina Bellaria Milano 20/10/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-20T18:04:45+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
+      "active": false,
+      "alerted_at": "2026-10-20T18:04:45+00:00"
+    },
+    {
       "id": "f98b4dacd461417558bb",
       "source": "Restworld",
       "confidence": "alta",
@@ -3755,6 +3755,24 @@
       "last_seen": "2026-09-02T13:44:01+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "897c8f7d5c677fcc7e45",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto cucina/a per pub informale Addetto cucina",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-milano-lcj",
+      "details": "Addetto cucina/a per pub informale Addetto cucina€1.400 netti Full time ![Image 21](https://restworld-assets.s3.amazonaws.com/4def8757adb6461e86f552fba19f9644.png?w=3840) Cheers Pub Milano 19/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-19T19:25:52+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
+      "active": false,
+      "alerted_at": "2026-10-21T18:12:37+00:00"
     },
     {
       "id": "03ff9c74812b9a8a83b9",
@@ -4887,6 +4905,24 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-31T13:38:18+00:00",
       "last_seen": "2026-09-01T13:43:34+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "6493c5f8e15ebb885bec",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per ristorante formale Aiuto cuoco",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-milano-ilm",
+      "details": "Aiuto cuoco/a per ristorante formale Aiuto cuoco€20k - 24k RAL Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/eb64e0e52acd4f6fab9a66e15c24a0f4.jpg?w=3840) Manna Milano 20/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-20T18:04:45+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
       "active": false,
       "alerted_at": null
     },
@@ -6183,6 +6219,24 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-22T18:07:19+00:00",
       "last_seen": "2026-10-22T18:07:19+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
+      "id": "f2faf67932acfa89a34d",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a ai piani per hotel Cameriere ai piani",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ai-piani-riale-aab",
+      "details": "Cameriere/a ai piani per hotel Cameriere ai piani€1.450 - 2.200 lordi Full time Aalts Dorf Riale 19/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-19T19:25:52+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
       "active": false,
       "alerted_at": null
     },
@@ -8527,6 +8581,24 @@
       "alerted_at": null
     },
     {
+      "id": "e80e6f93eef71e0aa8a9",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Receptionist per agriturismo Receptionist",
+      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-receptionist-roma-nkd",
+      "details": "Receptionist per agriturismo Receptionist€1.400 - 1.600 netti Full time Il Casale Di Roma Roma 21/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-21T18:12:37+00:00",
+      "last_seen": "2026-10-23T17:56:05+00:00",
+      "active": false,
+      "alerted_at": null
+    },
+    {
       "id": "e8f67b1865b68c0f9111",
       "source": "Restworld",
       "confidence": "alta",
@@ -9080,74 +9152,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-30T23:36:46+00:00",
       "last_seen": "2026-08-31T13:38:18+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "fda895e328dc0fc75b99",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Cameriere / a",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/cameriere-a-16",
-      "details": "Annunci dalla rete | Cameriere | Treviso | 09 Set 2026 | Cameriere/a – Saporitour, Treviso Il ristorantino Saporitour, in centro a Treviso (Piazza... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-10T13:43:26+00:00",
-      "last_seen": "2026-09-10T13:43:26+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "489d34bbd228988a94a0",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Cameriere / a Venerdì e Sabato",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/cameriere-a-venerdi-e-sabato",
-      "details": "Annunci dalla rete | Cameriere | Cagliari | 17 Set 2026 | Cameriere/a – Venerdì e Sabato Il Birrificio di Cagliari cerca un/a cameriere/a... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-17T13:44:17+00:00",
-      "last_seen": "2026-09-18T13:42:58+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "97dc531381760dafabc8",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Cameriere/a",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/cameriere-a-11",
-      "details": "Annunci dalla rete | Cameriere | Courmayeur | 28 Ago 2026 | Cameriere/a – Courmayeur Ristorante a Courmayeur (Valle d’Aosta) cerca cameriere/a con esperienza... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-08-31T13:38:18+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "b31bfbc9d4a10efd212f",
-      "source": "RestartGO",
-      "confidence": "média",
-      "title": "Cucina , Lavapiatti",
-      "url": "https://www.restartgo.com/it/offerta-lavoro/cucina-lavapiatti",
-      "details": "Annunci dalla rete | Lavapiatti | Fossano | 31 Ago 2026 | Lavapiatti / Aiuto Cucina – Ristorante Hizumo, Fossano Il ristorante Hizumo di... Standard",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-01T13:43:34+00:00",
-      "last_seen": "2026-09-02T13:44:01+00:00",
       "active": false,
       "alerted_at": null
     }
