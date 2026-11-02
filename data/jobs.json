@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-01T18:29:40+00:00",
+  "updated_at": "2026-11-02T22:26:37+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-01T18:29:40+00:00",
+      "checked_at": "2026-11-02T22:26:37+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-01T18:29:40+00:00",
+      "checked_at": "2026-11-02T22:26:37+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-01T18:29:40+00:00",
+      "checked_at": "2026-11-02T22:26:37+00:00",
       "found": 0
     }
   },
   "jobs": [
     {
-      "id": "d64eea3f9a3fa3096747",
+      "id": "f3fa2f47c771cfb5d4be",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto banco/a per paninoteca Addetto banco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-viareggio-cdr",
-      "details": "Addetto banco/a per paninoteca Addetto banco€1.300 - 1.450 netti Part time Bono da Morì Viareggio 01/11/26",
+      "title": "Banconista bar per bar ristorante Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-arese-dou",
+      "details": "Banconista bar per bar ristorante Banconista bar€897 - 948 lordi Part time Arese 02/11/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -32,10 +32,29 @@
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-01T18:29:40+00:00",
-      "last_seen": "2026-11-01T18:29:40+00:00",
+      "first_seen": "2026-11-02T22:26:37+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
       "active": true,
-      "alerted_at": "2026-11-01T18:29:40+00:00"
+      "alerted_at": "2026-11-02T22:26:37+00:00"
+    },
+    {
+      "id": "ddda8929561423de2b45",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Runner per trattoria Runner",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-runner-milano-dcf",
+      "details": "Runner per trattoria Runner€850 - 1.010 netti Part time Trattoria Milanese Milano 02/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-02T22:26:37+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
+      "active": true,
+      "alerted_at": "2026-11-02T22:26:37+00:00"
     },
     {
       "id": "ea275d45f0eed8ff0d51",
@@ -51,7 +70,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-19T19:25:52+00:00",
-      "last_seen": "2026-11-01T18:29:40+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
       "active": true,
       "alerted_at": "2026-10-19T19:25:52+00:00"
     },
@@ -87,45 +106,45 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-30T18:46:42+00:00",
-      "last_seen": "2026-11-01T18:29:40+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
       "active": true,
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
-      "id": "93ed98e70019585ecb4e",
+      "id": "dce2a324761280c104c9",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Banconista bar per pasticceria Banconista bar",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-roma-ael",
-      "details": "Banconista bar per pasticceria Banconista bar€22k - 26k RAL Full time Pompi | Ponte Milvio Roma 31/10/26",
+      "title": "Banconista bar per cocktail bar informale Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-salerno-hem",
+      "details": "Banconista bar per cocktail bar informale Banconista bar€1.200 - 1.400 netti Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/c16a862a58204b0ebc475df2622889b8.jpg?w=3840) B-Est Salerno Est Bar Salerno 02/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-01T18:29:40+00:00",
-      "last_seen": "2026-11-01T18:29:40+00:00",
+      "first_seen": "2026-11-02T22:26:37+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
       "active": true,
-      "alerted_at": "2026-11-01T18:29:40+00:00"
+      "alerted_at": "2026-11-02T22:26:37+00:00"
     },
     {
-      "id": "22cc0a3298dee3d05057",
+      "id": "407f508b96693eb3d1a0",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per ristorante informale Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bergamo-bef",
-      "details": "Cameriere/a per ristorante informale Cameriere€1.400 - 1.500 netti Full time ![Image 2](https://restworld-assets.s3.amazonaws.com/5a88c6ba4e144952ae69bf79e6eb8bd1.png?w=3840) T-Bakery Srl Bergamo 31/10/26",
+      "title": "Cameriere/a per circolo culturale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-voq",
+      "details": "Cameriere/a per circolo culturale Cameriere€1.600 - 1.800 netti Full time Circolo Arci Bellezza Milano 02/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-31T17:52:35+00:00",
-      "last_seen": "2026-11-01T18:29:40+00:00",
+      "first_seen": "2026-11-02T22:26:37+00:00",
+      "last_seen": "2026-11-02T22:26:37+00:00",
       "active": true,
-      "alerted_at": "2026-11-01T18:29:40+00:00"
+      "alerted_at": "2026-11-02T22:26:37+00:00"
     },
     {
       "id": "2119a2e5b667fabdbcf5",
@@ -314,6 +333,25 @@
       "last_seen": "2026-09-12T13:40:41+00:00",
       "active": false,
       "alerted_at": "2026-09-07T13:45:03+00:00"
+    },
+    {
+      "id": "d64eea3f9a3fa3096747",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto banco/a per paninoteca Addetto banco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-viareggio-cdr",
+      "details": "Addetto banco/a per paninoteca Addetto banco€1.300 - 1.450 netti Part time Bono da Morì Viareggio 01/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-01T18:29:40+00:00",
+      "last_seen": "2026-11-01T18:29:40+00:00",
+      "active": false,
+      "alerted_at": "2026-11-01T18:29:40+00:00"
     },
     {
       "id": "e6364234c43b5a521019",
@@ -6643,6 +6681,24 @@
       "alerted_at": null
     },
     {
+      "id": "93ed98e70019585ecb4e",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per pasticceria Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-roma-ael",
+      "details": "Banconista bar per pasticceria Banconista bar€22k - 26k RAL Full time Pompi | Ponte Milvio Roma 31/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-01T18:29:40+00:00",
+      "last_seen": "2026-11-01T18:29:40+00:00",
+      "active": false,
+      "alerted_at": "2026-11-01T18:29:40+00:00"
+    },
+    {
       "id": "63b1f4739e1ad8c13214",
       "source": "Restworld",
       "confidence": "alta",
@@ -8713,6 +8769,24 @@
       "alerted_at": null
     },
     {
+      "id": "22cc0a3298dee3d05057",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per ristorante informale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bergamo-bef",
+      "details": "Cameriere/a per ristorante informale Cameriere€1.400 - 1.500 netti Full time ![Image 2](https://restworld-assets.s3.amazonaws.com/5a88c6ba4e144952ae69bf79e6eb8bd1.png?w=3840) T-Bakery Srl Bergamo 31/10/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-10-31T17:52:35+00:00",
+      "last_seen": "2026-11-01T18:29:40+00:00",
+      "active": false,
+      "alerted_at": "2026-11-01T18:29:40+00:00"
+    },
+    {
       "id": "44a89655c9eb094cc752",
       "source": "Restworld",
       "confidence": "alta",
@@ -9123,78 +9197,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-03T13:43:25+00:00",
       "last_seen": "2026-09-05T13:39:44+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "e1b578204aa5bc99974c",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-udine-tgx",
-      "details": "Cameriere/a per trattoria Cameriere€1700 Full time (40 ore settimanali) ![Image 20](https://restworld-assets.s3.amazonaws.com/76ebc599174d4b11a855f79162f487f1_orig.jpg?w=3840) Osteria al Cappello Udine 01/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-01T13:43:34+00:00",
-      "last_seen": "2026-09-03T13:43:25+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "e1b57c38076f2dd1bbca",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-ged",
-      "details": "Cameriere/a per trattoria Cameriere€1400 Full time (40 ore settimanali) Trattoria Sapori D'Italia Milano 27/08/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-08-31T13:38:18+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "1d6d75e7e9904dd291df",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per villaggio turistico Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-mazzaforno-ukq",
-      "details": "Cameriere/a per villaggio turistico Cameriere€1400-1600 Full time (40 ore settimanali) Cefalù Resort Sporting Club Mazzaforno 02/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-02T13:44:01+00:00",
-      "last_seen": "2026-09-04T13:43:23+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "900bf7f9c234f48412c4",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per wine bar Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-treviso-oqu",
-      "details": "Cameriere/a per wine bar Cameriere€1600-1800 Full time Cantinetta Venegazzu Treviso 07/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-07T13:45:03+00:00",
-      "last_seen": "2026-09-12T13:40:41+00:00",
       "active": false,
       "alerted_at": null
     }
