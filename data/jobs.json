@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-03T20:14:19+00:00",
+  "updated_at": "2026-11-04T20:30:20+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-03T20:14:19+00:00",
+      "checked_at": "2026-11-04T20:30:20+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-03T20:14:19+00:00",
+      "checked_at": "2026-11-04T20:30:20+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-03T20:14:19+00:00",
+      "checked_at": "2026-11-04T20:30:20+00:00",
       "found": 0
     }
   },
   "jobs": [
     {
-      "id": "ccb915f966bf12c240c7",
+      "id": "0ec3ce1244b3df6ca8e6",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per locale Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-reggio_emilia-ply",
-      "details": "Cameriere/a per locale Cameriere€1.300 - 1.600 netti Part time Macramè Reggio Emilia 03/11/26",
+      "title": "Cameriere/a per ristorante Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-qse",
+      "details": "Cameriere/a per ristorante Cameriere€1.000 - 1.200 netti Part time Ristorante Il Vizietto Torino 04/11/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -32,10 +32,10 @@
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-03T20:14:19+00:00",
-      "last_seen": "2026-11-03T20:14:19+00:00",
+      "first_seen": "2026-11-04T20:30:20+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
       "active": true,
-      "alerted_at": "2026-11-03T20:14:19+00:00"
+      "alerted_at": "2026-11-04T20:30:20+00:00"
     },
     {
       "id": "ea275d45f0eed8ff0d51",
@@ -87,45 +87,81 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-30T18:46:42+00:00",
-      "last_seen": "2026-11-03T20:14:19+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
       "active": true,
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
-      "id": "1e0ba0ec46a30dee7082",
+      "id": "47329256ffc4f94712a1",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Aiuto cuoco/a per locale informale Aiuto cuoco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-terni-agm",
-      "details": "Aiuto cuoco/a per locale informale Aiuto cuoco€1.300 - 1.600 netti Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/acbf0fe19eed4e8c919745145264477a.jpg?w=3840) Poscargano Cibo e ospitalità dal 1890 Terni 03/11/26",
+      "title": "Cameriere/a per osteria Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-monza-qtv",
+      "details": "Cameriere/a per osteria Cameriere€1.300 - 1.400 netti Full time Osteria Del Cavolo Monza Monza 04/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-03T20:14:19+00:00",
-      "last_seen": "2026-11-03T20:14:19+00:00",
+      "first_seen": "2026-11-04T20:30:20+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
       "active": true,
-      "alerted_at": "2026-11-03T20:14:19+00:00"
+      "alerted_at": "2026-11-04T20:30:20+00:00"
     },
     {
-      "id": "ec33725c2e7e6dbb803f",
+      "id": "2ea5bfda57f19eb74559",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Receptionist SPA/Massaggiatrice per Hotel 4 stelle Addetto spa",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-spa-cogne-jdi",
-      "details": "Receptionist SPA/Massaggiatrice per Hotel 4 stelle Addetto spa€1.300 - 1.600 netti Full time ![Image 8](https://restworld-assets.s3.amazonaws.com/5164cf0f0ef24553b2ce84f5e593d6ca.png?w=3840) Hotel Sant'Orso Cogne 03/11/26",
+      "title": "Cameriere/a per pizzeria gourmet Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-rlb",
+      "details": "Cameriere/a per pizzeria gourmet Cameriere€800 - 900 netti Full time MANGIA MANGIA | Corso Unione Sovietica 125 Torino 04/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-03T20:14:19+00:00",
-      "last_seen": "2026-11-03T20:14:19+00:00",
+      "first_seen": "2026-11-04T20:30:20+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
       "active": true,
-      "alerted_at": "2026-11-03T20:14:19+00:00"
+      "alerted_at": "2026-11-04T20:30:20+00:00"
+    },
+    {
+      "id": "0eb18f6575aba46aa4da",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a per pizzeria Pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-aiello_del_friuli-caa",
+      "details": "Pizzaiolo/a per pizzeria Pizzaiolo€2.000 netti Full time Antica Pizzeria Da Michele Palmanova Aiello del Friuli 04/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-04T20:30:20+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
+      "active": true,
+      "alerted_at": "2026-11-04T20:30:20+00:00"
+    },
+    {
+      "id": "848392b7e3413956f15f",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a per ristorante Pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-fiano_romano-kna",
+      "details": "Pizzaiolo/a per ristorante Pizzaiolo€1.500 - 2.000 netti Full time Beef Minimal Restaurant Fiano Romano 04/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-04T20:30:20+00:00",
+      "last_seen": "2026-11-04T20:30:20+00:00",
+      "active": true,
+      "alerted_at": null
     },
     {
       "id": "2119a2e5b667fabdbcf5",
@@ -2423,6 +2459,25 @@
       "last_seen": "2026-09-06T13:40:41+00:00",
       "active": false,
       "alerted_at": "2026-09-02T13:44:01+00:00"
+    },
+    {
+      "id": "ccb915f966bf12c240c7",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per locale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-reggio_emilia-ply",
+      "details": "Cameriere/a per locale Cameriere€1.300 - 1.600 netti Part time Macramè Reggio Emilia 03/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-03T20:14:19+00:00",
+      "last_seen": "2026-11-03T20:14:19+00:00",
+      "active": false,
+      "alerted_at": "2026-11-03T20:14:19+00:00"
     },
     {
       "id": "43d8b2e9a36796bce94f",
@@ -5240,6 +5295,24 @@
       "last_seen": "2026-09-17T13:44:17+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "1e0ba0ec46a30dee7082",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per locale informale Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-terni-agm",
+      "details": "Aiuto cuoco/a per locale informale Aiuto cuoco€1.300 - 1.600 netti Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/acbf0fe19eed4e8c919745145264477a.jpg?w=3840) Poscargano Cibo e ospitalità dal 1890 Terni 03/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-03T20:14:19+00:00",
+      "last_seen": "2026-11-03T20:14:19+00:00",
+      "active": false,
+      "alerted_at": "2026-11-03T20:14:19+00:00"
     },
     {
       "id": "95d8f310de63718a1062",
@@ -9126,78 +9199,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-24T13:45:31+00:00",
       "last_seen": "2026-09-26T17:22:08+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "7c132d03e4f890fd72eb",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-verona-xbo",
-      "details": "Cameriere/a per trattoria Cameriere€1500-1800 Full time Il Vicoletto Trattoria Verona 22/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-23T13:44:26+00:00",
-      "last_seen": "2026-09-23T13:44:26+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "9d500e5a47f936a1dc15",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-verona-qom",
-      "details": "Cameriere/a per trattoria Cameriere€1500-1800 Full time Il Vicoletto Trattoria Verona 14/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-15T13:44:52+00:00",
-      "last_seen": "2026-09-19T13:40:33+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "066845eaa45040204da3",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-torino-wvx",
-      "details": "Cameriere/a per trattoria Cameriere€1600-1800 Full time Antica Trattoria Cirio Torino 16/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-16T13:44:58+00:00",
-      "last_seen": "2026-09-17T13:44:17+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "a1e33cdfbe92f5aed7f7",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-novagli-gyu",
-      "details": "Cameriere/a per trattoria Cameriere€1900-2300 Full time Trattoria Rosy Novagli 11/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-12T13:40:41+00:00",
-      "last_seen": "2026-09-14T13:46:32+00:00",
       "active": false,
       "alerted_at": null
     }
