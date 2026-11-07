@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-06T20:02:14+00:00",
+  "updated_at": "2026-11-07T18:13:12+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-06T20:02:14+00:00",
+      "checked_at": "2026-11-07T18:13:12+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-06T20:02:14+00:00",
+      "checked_at": "2026-11-07T18:13:12+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-06T20:02:14+00:00",
+      "checked_at": "2026-11-07T18:13:12+00:00",
       "found": 0
     }
   },
@@ -33,7 +33,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
       "alerted_at": "2026-11-06T20:02:14+00:00"
     },
@@ -52,9 +52,28 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
       "alerted_at": "2026-11-06T20:02:14+00:00"
+    },
+    {
+      "id": "de5958058345a2d0f4e5",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista gelateria per gelateria artigianale Banconista gelateria",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-gelateria-foggia-chi",
+      "details": "Banconista gelateria per gelateria artigianale Banconista gelateria€800 - 1.200 netti Part time Golà Gelaterie Foggia 07/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": true,
+      "alerted_at": "2026-11-07T18:13:12+00:00"
     },
     {
       "id": "ea275d45f0eed8ff0d51",
@@ -106,7 +125,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-30T18:46:42+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
@@ -124,9 +143,27 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
       "alerted_at": "2026-11-06T20:02:14+00:00"
+    },
+    {
+      "id": "7b770b07d6795b7b227b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per food truck Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-alessandria-nkh",
+      "details": "Aiuto cuoco/a per food truck Aiuto cuoco€25k - 27k RAL Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/f52638752fa34e4f9ec7c5ce899d095f_orig.jpg?w=3840) Buonovero FoodTruck Alessandria 07/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": true,
+      "alerted_at": "2026-11-07T18:13:12+00:00"
     },
     {
       "id": "31e5c9e4e63484e514b3",
@@ -142,63 +179,27 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
       "alerted_at": "2026-11-06T20:02:14+00:00"
     },
     {
-      "id": "baadf64802f3c7bc3016",
+      "id": "fff45c5253251daf3583",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per ristorante informale Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-salerno-kbv",
-      "details": "Cameriere/a per ristorante informale Cameriere€1.400 netti Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/e8b9177f184d452288f1e2a9bf6cdbed.png?w=3840) Casa Ragusa Salerno 06/11/26",
+      "title": "Lavapiatti/tutto fare Lavapiatti",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-lavapiatti-san_giorgio-vnm",
+      "details": "Lavapiatti/tutto fare Lavapiatti€1.600 - 1.700 netti Full time Osteria Le Servite San Giorgio 06/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
+      "first_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
       "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "ce7c01bf1e03e53cf68b",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per trattoria Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ponte_san_giovanni-hob",
-      "details": "Cameriere/a per trattoria Cameriere€1.200 - 2.001 netti Full time Il Testone - Ponte San Giovanni Ponte San Giovanni 06/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
-      "active": true,
-      "alerted_at": null
-    },
-    {
-      "id": "b8e31e2f56f8ef34b6df",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Pizzaiolo/a per pizzeria Pizzaiolo",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-roma-epi",
-      "details": "Pizzaiolo/a per pizzeria Pizzaiolo€22k - 25k RAL Full time L'Elementare - Trastevere Roma 06/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-06T20:02:14+00:00",
-      "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-11-07T18:13:12+00:00"
     },
     {
       "id": "2119a2e5b667fabdbcf5",
