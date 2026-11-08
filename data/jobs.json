@@ -1,80 +1,23 @@
 {
-  "updated_at": "2026-11-07T18:13:12+00:00",
+  "updated_at": "2026-11-08T18:26:49+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-07T18:13:12+00:00",
+      "checked_at": "2026-11-08T18:26:49+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-07T18:13:12+00:00",
+      "checked_at": "2026-11-08T18:26:49+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-07T18:13:12+00:00",
+      "checked_at": "2026-11-08T18:26:49+00:00",
       "found": 0
     }
   },
   "jobs": [
-    {
-      "id": "12a1f006d4fe2d36b8c6",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "ASSISTENTE TECNICO DI CUCINA PART-TIME / FULL TIME Addetto cucina",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-firenze-fee",
-      "details": "ASSISTENTE TECNICO DI CUCINA PART-TIME / FULL TIME Addetto cucina€22.3k - 22.5k RAL Full time Istituto Lorenzo de' Medici Firenze 06/11/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
-      "active": true,
-      "alerted_at": "2026-11-06T20:02:14+00:00"
-    },
-    {
-      "id": "a8cb9c08966f4ac221a4",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Aiuto cuoco/a per bistrot Aiuto cuoco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-bologna-kov",
-      "details": "Aiuto cuoco/a per bistrot Aiuto cuoco€12 - 15 lordi all'ora Part time Vetro Bistrot Bologna 06/11/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
-      "active": true,
-      "alerted_at": "2026-11-06T20:02:14+00:00"
-    },
-    {
-      "id": "de5958058345a2d0f4e5",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Banconista gelateria per gelateria artigianale Banconista gelateria",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-gelateria-foggia-chi",
-      "details": "Banconista gelateria per gelateria artigianale Banconista gelateria€800 - 1.200 netti Part time Golà Gelaterie Foggia 07/11/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-07T18:13:12+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
-      "active": true,
-      "alerted_at": "2026-11-07T18:13:12+00:00"
-    },
     {
       "id": "ea275d45f0eed8ff0d51",
       "source": "Rysto",
@@ -125,81 +68,99 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-30T18:46:42+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
       "active": true,
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
-      "id": "edcb3973798e4cd76d3a",
+      "id": "543874b3c1aafbbd4e66",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a banco per birreria Addetto banco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-grantorto-rkh",
-      "details": "Addetto/a banco per birreria Addetto banco€1.600 - 2.000 netti Full time Ruggine•Birreria Contemporanea Grantorto 06/11/26",
+      "title": "Aiuto pizzaiolo/a per pizzeria da asporto Aiuto pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-pizzaiolo-roma-liq",
+      "details": "Aiuto pizzaiolo/a per pizzeria da asporto Aiuto pizzaiolo€1.100 - 1.500 netti Full time MT Pizza Gli specialisti della tonda romana a domicilio- San Giovanni Roma 08/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
+      "first_seen": "2026-11-08T18:26:49+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
       "active": true,
-      "alerted_at": "2026-11-06T20:02:14+00:00"
+      "alerted_at": "2026-11-08T18:26:49+00:00"
     },
     {
-      "id": "7b770b07d6795b7b227b",
+      "id": "9e9eb23970a31b8480d3",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Aiuto cuoco/a per food truck Aiuto cuoco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-alessandria-nkh",
-      "details": "Aiuto cuoco/a per food truck Aiuto cuoco€25k - 27k RAL Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/f52638752fa34e4f9ec7c5ce899d095f_orig.jpg?w=3840) Buonovero FoodTruck Alessandria 07/11/26",
+      "title": "Banconista bar per bar Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-bellano-bbk",
+      "details": "Banconista bar per bar Banconista bar€1.200 - 1.400 netti Full time Bar Testori Bellano 08/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-07T18:13:12+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
+      "first_seen": "2026-11-08T18:26:49+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
       "active": true,
-      "alerted_at": "2026-11-07T18:13:12+00:00"
+      "alerted_at": "2026-11-08T18:26:49+00:00"
     },
     {
-      "id": "31e5c9e4e63484e514b3",
+      "id": "e63be55be7def743f826",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Banconista bar per street food e pizzeria Banconista bar",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-foiano_della_chiana-wrw",
-      "details": "Banconista bar per street food e pizzeria Banconista bar€1.300 netti Full time Michele express Foiano della Chiana 06/11/26",
+      "title": "Cameriere/a per locale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-roma-riu",
+      "details": "Cameriere/a per locale Cameriere€1.540 - 1.620 netti Full time L'Elementare - Trastevere Roma 08/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-06T20:02:14+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
+      "first_seen": "2026-11-08T18:26:49+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
       "active": true,
-      "alerted_at": "2026-11-06T20:02:14+00:00"
+      "alerted_at": "2026-11-08T18:26:49+00:00"
     },
     {
-      "id": "fff45c5253251daf3583",
+      "id": "e2f8037f8505e6b156ab",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Lavapiatti/tutto fare Lavapiatti",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-lavapiatti-san_giorgio-vnm",
-      "details": "Lavapiatti/tutto fare Lavapiatti€1.600 - 1.700 netti Full time Osteria Le Servite San Giorgio 06/11/26",
+      "title": "Capo pizzaiolo/a per pizzeria e ristorante Capo pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-capo-pizzaiolo-padova-ogc",
+      "details": "Capo pizzaiolo/a per pizzeria e ristorante Capo pizzaiolo€1.600 - 1.800 netti Full time Arcobaleno - Pizzeria e Ristorante Padova 08/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-07T18:13:12+00:00",
-      "last_seen": "2026-11-07T18:13:12+00:00",
+      "first_seen": "2026-11-08T18:26:49+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
       "active": true,
-      "alerted_at": "2026-11-07T18:13:12+00:00"
+      "alerted_at": "2026-11-08T18:26:49+00:00"
+    },
+    {
+      "id": "352565f40b8514d5d8f9",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a fornaio/a per ristorante pizzeria informale Pizzaiolo fornaio",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-fornaio-hamburg-uis",
+      "details": "Pizzaiolo/a fornaio/a per ristorante pizzeria informale Pizzaiolo fornaio€2.000 - 2.500 lordi Full time ![Image 5](https://restworld-assets.s3.amazonaws.com/a2524e4058e546a698ca706acd06156e.png?w=3840) I Mori Hamburg 08/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-08T18:26:49+00:00",
+      "last_seen": "2026-11-08T18:26:49+00:00",
+      "active": true,
+      "alerted_at": null
     },
     {
       "id": "2119a2e5b667fabdbcf5",
@@ -217,6 +178,25 @@
       "last_seen": "2026-10-14T18:08:12+00:00",
       "active": true,
       "alerted_at": null
+    },
+    {
+      "id": "12a1f006d4fe2d36b8c6",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "ASSISTENTE TECNICO DI CUCINA PART-TIME / FULL TIME Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-firenze-fee",
+      "details": "ASSISTENTE TECNICO DI CUCINA PART-TIME / FULL TIME Addetto cucina€22.3k - 22.5k RAL Full time Istituto Lorenzo de' Medici Firenze 06/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-06T20:02:14+00:00"
     },
     {
       "id": "2324bd866bc7f404067f",
@@ -1283,6 +1263,25 @@
       "alerted_at": "2026-09-02T13:44:01+00:00"
     },
     {
+      "id": "a8cb9c08966f4ac221a4",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per bistrot Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-bologna-kov",
+      "details": "Aiuto cuoco/a per bistrot Aiuto cuoco€12 - 15 lordi all'ora Part time Vetro Bistrot Bologna 06/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-06T20:02:14+00:00"
+    },
+    {
       "id": "a0f447e5856ec3d108af",
       "source": "Restworld",
       "confidence": "alta",
@@ -2003,6 +2002,25 @@
       "last_seen": "2026-09-27T17:54:22+00:00",
       "active": false,
       "alerted_at": "2026-09-22T13:44:27+00:00"
+    },
+    {
+      "id": "de5958058345a2d0f4e5",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista gelateria per gelateria artigianale Banconista gelateria",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-gelateria-foggia-chi",
+      "details": "Banconista gelateria per gelateria artigianale Banconista gelateria€800 - 1.200 netti Part time Golà Gelaterie Foggia 07/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-07T18:13:12+00:00"
     },
     {
       "id": "559d5aef02e44ce5329b",
@@ -4533,6 +4551,24 @@
       "alerted_at": null
     },
     {
+      "id": "edcb3973798e4cd76d3a",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a banco per birreria Addetto banco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-grantorto-rkh",
+      "details": "Addetto/a banco per birreria Addetto banco€1.600 - 2.000 netti Full time Ruggine•Birreria Contemporanea Grantorto 06/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-06T20:02:14+00:00"
+    },
+    {
       "id": "a23abd9066657ee6e194",
       "source": "Restworld",
       "confidence": "alta",
@@ -5341,6 +5377,24 @@
       "last_seen": "2026-09-22T13:44:27+00:00",
       "active": false,
       "alerted_at": "2026-09-20T13:41:01+00:00"
+    },
+    {
+      "id": "7b770b07d6795b7b227b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per food truck Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-alessandria-nkh",
+      "details": "Aiuto cuoco/a per food truck Aiuto cuoco€25k - 27k RAL Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/f52638752fa34e4f9ec7c5ce899d095f_orig.jpg?w=3840) Buonovero FoodTruck Alessandria 07/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-07T18:13:12+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-07T18:13:12+00:00"
     },
     {
       "id": "fcb79cc659e23493b0ff",
@@ -7231,6 +7285,24 @@
       "last_seen": "2026-09-06T13:40:41+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "31e5c9e4e63484e514b3",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per street food e pizzeria Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-foiano_della_chiana-wrw",
+      "details": "Banconista bar per street food e pizzeria Banconista bar€1.300 netti Full time Michele express Foiano della Chiana 06/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-06T20:02:14+00:00",
+      "last_seen": "2026-11-07T18:13:12+00:00",
+      "active": false,
+      "alerted_at": "2026-11-06T20:02:14+00:00"
     },
     {
       "id": "4084c1ab7004bc5dcd49",
@@ -9137,78 +9209,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-27T18:51:57+00:00",
       "last_seen": "2026-10-29T19:08:44+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "6f488165edcac587c73a",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per ristorante formale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-alba-mab",
-      "details": "Cameriere/a per ristorante formale Cameriere€1800-2000 Full time ![Image 24](https://restworld-assets.s3.amazonaws.com/81178c36b89949cb94773cb0fa7e3033.jpg?w=3840) Hostaria dai Musi Alba 06/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-06T19:00:09+00:00",
-      "last_seen": "2026-10-11T18:22:28+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "51e442949a21d64c5242",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per ristorante formale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-sarre-lxg",
-      "details": "Cameriere/a per ristorante formale Cameriere€1400-1800 Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/7a8d4e187f3049628c4f0767ac4b6386.jpg?w=3840) Ristorante Trattoria di Campagna Sarre 07/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-07T19:27:58+00:00",
-      "last_seen": "2026-10-08T19:22:49+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "ea73bae048570e46b015",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per ristorante formale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-iwd",
-      "details": "Cameriere/a per ristorante formale Cameriere€1800-3000 Full time ![Image 10](https://restworld-assets.s3.amazonaws.com/2ecc40b755274149baef0d54e2d240ba.jpg?w=3840) Varrone - Carne Milano 01/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-01T18:59:05+00:00",
-      "last_seen": "2026-10-01T18:59:05+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "8b466e0c73e80a81e2b9",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per ristorante formale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bergamo-egb",
-      "details": "Cameriere/a per ristorante formale Cameriere€1500-1600 Full time ![Image 24](https://restworld-assets.s3.amazonaws.com/9c4a6326364643589c490c724c57e74f.jpg?w=3840) Ristorante Ubaldo Bergamo 14/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-14T13:46:32+00:00",
-      "last_seen": "2026-09-20T13:41:01+00:00",
       "active": false,
       "alerted_at": null
     }
