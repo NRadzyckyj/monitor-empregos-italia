@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-13T20:37:15+00:00",
+  "updated_at": "2026-11-14T18:48:21+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-13T20:37:15+00:00",
+      "checked_at": "2026-11-14T18:48:21+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-13T20:37:15+00:00",
-      "found": 29
+      "checked_at": "2026-11-14T18:48:21+00:00",
+      "found": 28
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-13T20:37:15+00:00",
+      "checked_at": "2026-11-14T18:48:21+00:00",
       "found": 0
     }
   },
@@ -73,6 +73,24 @@
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
+      "id": "451e6780e8b856281e5c",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-barman-roma-ibg",
+      "details": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman€1.350 - 1.500 netti Full time Mister TAMO Roma 14/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-14T18:48:21+00:00",
+      "last_seen": "2026-11-14T18:48:21+00:00",
+      "active": true,
+      "alerted_at": "2026-11-14T18:48:21+00:00"
+    },
+    {
       "id": "8daeecb3e6c27b76da76",
       "source": "Restworld",
       "confidence": "alta",
@@ -86,45 +104,27 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-13T20:37:15+00:00",
-      "last_seen": "2026-11-13T20:37:15+00:00",
+      "last_seen": "2026-11-14T18:48:21+00:00",
       "active": true,
       "alerted_at": "2026-11-13T20:37:15+00:00"
     },
     {
-      "id": "065f141fc31ac701f29c",
+      "id": "aaa7131ecf70de96f445",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Banconista bar per locale Banconista bar",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-bellano-zbv",
-      "details": "Banconista bar per locale Banconista bar€1.200 - 1.800 netti Full time Bar Testori Bellano 13/11/26",
+      "title": "Runner per ristorante Runner",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-runner-gallio-lfb",
+      "details": "Runner per ristorante Runner€1.150 - 1.350 netti Full time ![Image 5](https://restworld-assets.s3.amazonaws.com/e9e0819de04b4e23bd6b9f8dbc1ff4e3.jpg?w=3840) Lemelae Gallio 14/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-13T20:37:15+00:00",
-      "last_seen": "2026-11-13T20:37:15+00:00",
+      "first_seen": "2026-11-14T18:48:21+00:00",
+      "last_seen": "2026-11-14T18:48:21+00:00",
       "active": true,
-      "alerted_at": "2026-11-13T20:37:15+00:00"
-    },
-    {
-      "id": "a0789bcbb571ee1119b1",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per osteria Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-sirmione-vlv",
-      "details": "Cameriere/a per osteria Cameriere€1.800 - 2.200 netti Full time Osteria Almarè Sirmione 13/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-13T20:37:15+00:00",
-      "last_seen": "2026-11-13T20:37:15+00:00",
-      "active": true,
-      "alerted_at": "2026-11-13T20:37:15+00:00"
+      "alerted_at": "2026-11-14T18:48:21+00:00"
     },
     {
       "id": "2119a2e5b667fabdbcf5",
@@ -7403,6 +7403,24 @@
       "alerted_at": null
     },
     {
+      "id": "065f141fc31ac701f29c",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per locale Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-bellano-zbv",
+      "details": "Banconista bar per locale Banconista bar€1.200 - 1.800 netti Full time Bar Testori Bellano 13/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-13T20:37:15+00:00",
+      "last_seen": "2026-11-13T20:37:15+00:00",
+      "active": false,
+      "alerted_at": "2026-11-13T20:37:15+00:00"
+    },
+    {
       "id": "5de97c0f99176889ce1a",
       "source": "Restworld",
       "confidence": "alta",
@@ -8987,6 +9005,24 @@
       "alerted_at": null
     },
     {
+      "id": "a0789bcbb571ee1119b1",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per osteria Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-sirmione-vlv",
+      "details": "Cameriere/a per osteria Cameriere€1.800 - 2.200 netti Full time Osteria Almarè Sirmione 13/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-13T20:37:15+00:00",
+      "last_seen": "2026-11-13T20:37:15+00:00",
+      "active": false,
+      "alerted_at": "2026-11-13T20:37:15+00:00"
+    },
+    {
       "id": "47329256ffc4f94712a1",
       "source": "Restworld",
       "confidence": "alta",
@@ -9181,42 +9217,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-18T13:42:58+00:00",
       "last_seen": "2026-09-22T13:44:27+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "b5de1b83e0425e95f024",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-fermo-uzj",
-      "details": "Cameriere/a per pizzeria Cameriere€1300-1600 Full time Fermo 08/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-08T13:45:17+00:00",
-      "last_seen": "2026-09-12T13:40:41+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "dc93decf36d13f485eb6",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bagnolo_san_vito-ppo",
-      "details": "Cameriere/a per pizzeria Cameriere€1300-1400 Full time Antica pizzeria da Michele - Mantova Bagnolo San Vito 09/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-10T13:43:26+00:00",
-      "last_seen": "2026-09-11T13:44:12+00:00",
       "active": false,
       "alerted_at": null
     }
