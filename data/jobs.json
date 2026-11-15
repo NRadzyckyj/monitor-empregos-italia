@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-14T18:48:21+00:00",
+  "updated_at": "2026-11-15T19:26:26+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-14T18:48:21+00:00",
+      "checked_at": "2026-11-15T19:26:26+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-14T18:48:21+00:00",
-      "found": 28
+      "checked_at": "2026-11-15T19:26:26+00:00",
+      "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-14T18:48:21+00:00",
+      "checked_at": "2026-11-15T19:26:26+00:00",
       "found": 0
     }
   },
@@ -73,6 +73,24 @@
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
+      "id": "831b81913803044c4e38",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per bistrot lounge Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bordighera-oyq",
+      "details": "Addetto/a cucina per bistrot lounge Addetto cucina€2.000 - 2.500 netti Full time Velvet BistroLounge Bordighera 15/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-15T19:26:26+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
+      "active": true,
+      "alerted_at": "2026-11-15T19:26:26+00:00"
+    },
+    {
       "id": "451e6780e8b856281e5c",
       "source": "Restworld",
       "confidence": "alta",
@@ -86,27 +104,27 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-14T18:48:21+00:00",
-      "last_seen": "2026-11-14T18:48:21+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
       "active": true,
       "alerted_at": "2026-11-14T18:48:21+00:00"
     },
     {
-      "id": "8daeecb3e6c27b76da76",
+      "id": "72db769288e23c6b65a9",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Banconista bar per forno e pasticceria Banconista bar",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-roma-elj",
-      "details": "Banconista bar per forno e pasticceria Banconista bar€1.580 - 1.830 lordi Full time L' Antico Forno Di Fontana Di Trevi Roma 13/11/26",
+      "title": "Cameriere/a per pizzeria Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-legnano-qyu",
+      "details": "Cameriere/a per pizzeria Cameriere€22.9k - 27.5k RAL Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/133a124a5d334dd780db8d66e5d96d1c.png?w=3840) Urban Lycios Legnano 15/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-13T20:37:15+00:00",
-      "last_seen": "2026-11-14T18:48:21+00:00",
+      "first_seen": "2026-11-15T19:26:26+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
       "active": true,
-      "alerted_at": "2026-11-13T20:37:15+00:00"
+      "alerted_at": "2026-11-15T19:26:26+00:00"
     },
     {
       "id": "aaa7131ecf70de96f445",
@@ -114,7 +132,7 @@
       "confidence": "alta",
       "title": "Runner per ristorante Runner",
       "url": "https://www.restworld.it/posizione/offerta-di-lavoro-runner-gallio-lfb",
-      "details": "Runner per ristorante Runner€1.150 - 1.350 netti Full time ![Image 5](https://restworld-assets.s3.amazonaws.com/e9e0819de04b4e23bd6b9f8dbc1ff4e3.jpg?w=3840) Lemelae Gallio 14/11/26",
+      "details": "Runner per ristorante Runner€1.150 - 1.350 netti Full time ![Image 7](https://restworld-assets.s3.amazonaws.com/e9e0819de04b4e23bd6b9f8dbc1ff4e3.jpg?w=3840) Lemelae Gallio 14/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
@@ -122,7 +140,7 @@
       ],
       "status": "início/idioma a confirmar",
       "first_seen": "2026-11-14T18:48:21+00:00",
-      "last_seen": "2026-11-14T18:48:21+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
       "active": true,
       "alerted_at": "2026-11-14T18:48:21+00:00"
     },
@@ -7385,6 +7403,24 @@
       "alerted_at": "2026-11-02T22:26:37+00:00"
     },
     {
+      "id": "8daeecb3e6c27b76da76",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per forno e pasticceria Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-roma-elj",
+      "details": "Banconista bar per forno e pasticceria Banconista bar€1.580 - 1.830 lordi Full time L' Antico Forno Di Fontana Di Trevi Roma 13/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-13T20:37:15+00:00",
+      "last_seen": "2026-11-14T18:48:21+00:00",
+      "active": false,
+      "alerted_at": "2026-11-13T20:37:15+00:00"
+    },
+    {
       "id": "3f656224b16e58feada4",
       "source": "Restworld",
       "confidence": "alta",
@@ -9181,42 +9217,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-10-10T17:56:53+00:00",
       "last_seen": "2026-10-13T19:56:09+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "c56f5f5cf3e62e5ebed2",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-nocera_inferiore-rrv",
-      "details": "Cameriere/a per pizzeria Cameriere€22000-26000 Full time Pizzeria 'O Sarracin (sede storica di Nocera Inferiore)Nocera Inferiore 21/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-21T13:43:20+00:00",
-      "last_seen": "2026-09-25T18:02:08+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "642f82899960db367871",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-siena-skz",
-      "details": "Cameriere/a per pizzeria Cameriere€1200-1600 Full time Ristorante Pizzeria La Capannina Siena 18/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-18T13:42:58+00:00",
-      "last_seen": "2026-09-22T13:44:27+00:00",
       "active": false,
       "alerted_at": null
     }
