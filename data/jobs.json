@@ -1,23 +1,42 @@
 {
-  "updated_at": "2026-11-15T19:26:26+00:00",
+  "updated_at": "2026-11-16T22:59:09+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-15T19:26:26+00:00",
+      "checked_at": "2026-11-16T22:59:09+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-15T19:26:26+00:00",
+      "checked_at": "2026-11-16T22:59:09+00:00",
       "found": 29
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-15T19:26:26+00:00",
+      "checked_at": "2026-11-16T22:59:09+00:00",
       "found": 0
     }
   },
   "jobs": [
+    {
+      "id": "eefb0b6adda5501bc37b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Camerieri/e Pizzikotto - Opportunità a PIACENZA Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-piacenza-qcg",
+      "details": "Camerieri/e Pizzikotto - Opportunità a PIACENZA Cameriere€20.9k - 23.2k RAL Part time Pizzikotto Piacenza Piacenza 16/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-16T22:59:09+00:00",
+      "last_seen": "2026-11-16T22:59:09+00:00",
+      "active": true,
+      "alerted_at": "2026-11-16T22:59:09+00:00"
+    },
     {
       "id": "ea275d45f0eed8ff0d51",
       "source": "Rysto",
@@ -73,76 +92,76 @@
       "alerted_at": "2026-10-30T18:46:42+00:00"
     },
     {
-      "id": "831b81913803044c4e38",
+      "id": "84fb373ed71a50aa6c9a",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a cucina per bistrot lounge Addetto cucina",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bordighera-oyq",
-      "details": "Addetto/a cucina per bistrot lounge Addetto cucina€2.000 - 2.500 netti Full time Velvet BistroLounge Bordighera 15/11/26",
+      "title": "Addetto/a caffetteria per ristorante formale Addetto caffetteria",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-caffetteria-firenze-wfk",
+      "details": "Addetto/a caffetteria per ristorante formale Addetto caffetteria€25k - 30k RAL Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/bcf47e520ae84825a82cefe0c1a819c5.jpg?w=3840) La Ménagère Firenze 16/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-15T19:26:26+00:00",
-      "last_seen": "2026-11-15T19:26:26+00:00",
+      "first_seen": "2026-11-16T22:59:09+00:00",
+      "last_seen": "2026-11-16T22:59:09+00:00",
       "active": true,
-      "alerted_at": "2026-11-15T19:26:26+00:00"
+      "alerted_at": "2026-11-16T22:59:09+00:00"
     },
     {
-      "id": "451e6780e8b856281e5c",
+      "id": "aeb3ee8b303260c50e27",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-barman-roma-ibg",
-      "details": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman€1.350 - 1.500 netti Full time Mister TAMO Roma 14/11/26",
+      "title": "Aiuto cuoco/a per hamburgeria e pinseria Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-vimercate-joz",
+      "details": "Aiuto cuoco/a per hamburgeria e pinseria Aiuto cuoco€1.350 - 1.550 netti Full time Hambù - Hamburgeria e Pinsa Romana a Vimercate Vimercate 16/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-14T18:48:21+00:00",
-      "last_seen": "2026-11-15T19:26:26+00:00",
+      "first_seen": "2026-11-16T22:59:09+00:00",
+      "last_seen": "2026-11-16T22:59:09+00:00",
       "active": true,
-      "alerted_at": "2026-11-14T18:48:21+00:00"
+      "alerted_at": "2026-11-16T22:59:09+00:00"
     },
     {
-      "id": "72db769288e23c6b65a9",
+      "id": "60dce73a8d2449e39061",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-legnano-qyu",
-      "details": "Cameriere/a per pizzeria Cameriere€22.9k - 27.5k RAL Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/133a124a5d334dd780db8d66e5d96d1c.png?w=3840) Urban Lycios Legnano 15/11/26",
+      "title": "Banconista per bistrot informale Banconista gastronomia",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-gastronomia-roma-ppq",
+      "details": "Banconista per bistrot informale Banconista gastronomia€23.2k - 25.6k RAL Full time Sorelle Giordano Roma 16/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-15T19:26:26+00:00",
-      "last_seen": "2026-11-15T19:26:26+00:00",
+      "first_seen": "2026-11-16T22:59:09+00:00",
+      "last_seen": "2026-11-16T22:59:09+00:00",
       "active": true,
-      "alerted_at": "2026-11-15T19:26:26+00:00"
+      "alerted_at": "2026-11-16T22:59:09+00:00"
     },
     {
-      "id": "aaa7131ecf70de96f445",
+      "id": "9e6767aaf01e4988a9cc",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Runner per ristorante Runner",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-runner-gallio-lfb",
-      "details": "Runner per ristorante Runner€1.150 - 1.350 netti Full time ![Image 7](https://restworld-assets.s3.amazonaws.com/e9e0819de04b4e23bd6b9f8dbc1ff4e3.jpg?w=3840) Lemelae Gallio 14/11/26",
+      "title": "Cameriere/a per bar caffetteria Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bergamo-mcs",
+      "details": "Cameriere/a per bar caffetteria Cameriere€22.1k RAL Full time Bergamo 16/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-14T18:48:21+00:00",
-      "last_seen": "2026-11-15T19:26:26+00:00",
+      "first_seen": "2026-11-16T22:59:09+00:00",
+      "last_seen": "2026-11-16T22:59:09+00:00",
       "active": true,
-      "alerted_at": "2026-11-14T18:48:21+00:00"
+      "alerted_at": null
     },
     {
       "id": "2119a2e5b667fabdbcf5",
@@ -5045,6 +5064,24 @@
       "alerted_at": null
     },
     {
+      "id": "831b81913803044c4e38",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per bistrot lounge Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bordighera-oyq",
+      "details": "Addetto/a cucina per bistrot lounge Addetto cucina€2.000 - 2.500 netti Full time Velvet BistroLounge Bordighera 15/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-15T19:26:26+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
+      "active": false,
+      "alerted_at": "2026-11-15T19:26:26+00:00"
+    },
+    {
       "id": "bcccf91848cc2142ade9",
       "source": "Restworld",
       "confidence": "alta",
@@ -5385,6 +5422,24 @@
       "last_seen": "2026-10-07T19:27:58+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "451e6780e8b856281e5c",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-barman-roma-ibg",
+      "details": "Aiuto Barman per caffetteria e cocktail bar Aiuto Barman€1.350 - 1.500 netti Full time Mister TAMO Roma 14/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-14T18:48:21+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
+      "active": false,
+      "alerted_at": "2026-11-14T18:48:21+00:00"
     },
     {
       "id": "6692ff5b45297bb85df3",
@@ -9149,76 +9204,22 @@
       "alerted_at": null
     },
     {
-      "id": "812d8a3b2158a565e101",
+      "id": "72db769288e23c6b65a9",
       "source": "Restworld",
       "confidence": "alta",
       "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-gpz",
-      "details": "Cameriere/a per pizzeria Cameriere€1.600 - 2.000 lordi Full time Pizzeria da Mammà Milano 24/10/26",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-legnano-qyu",
+      "details": "Cameriere/a per pizzeria Cameriere€22.9k - 27.5k RAL Full time ![Image 6](https://restworld-assets.s3.amazonaws.com/133a124a5d334dd780db8d66e5d96d1c.png?w=3840) Urban Lycios Legnano 15/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-24T16:51:30+00:00",
-      "last_seen": "2026-10-26T19:30:09+00:00",
+      "first_seen": "2026-11-15T19:26:26+00:00",
+      "last_seen": "2026-11-15T19:26:26+00:00",
       "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "46440b17eb00f018c83e",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-milano-hyp",
-      "details": "Cameriere/a per pizzeria Cameriere€1350-1700 Full time Giolina Milano 11/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-11T18:22:28+00:00",
-      "last_seen": "2026-10-15T17:51:03+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "53eabc3a9d3c02085db5",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-fermo-pqf",
-      "details": "Cameriere/a per pizzeria Cameriere€1300-1600 Full time Fermo 07/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-07T19:27:58+00:00",
-      "last_seen": "2026-10-14T18:08:12+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "51a0186791ae48bfc950",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-brescia-lsz",
-      "details": "Cameriere/a per pizzeria Cameriere€1582-2000 Full time Lucio terra mare pizza Brescia 10/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-10T17:56:53+00:00",
-      "last_seen": "2026-10-13T19:56:09+00:00",
-      "active": false,
-      "alerted_at": null
+      "alerted_at": "2026-11-15T19:26:26+00:00"
     }
   ]
 }
