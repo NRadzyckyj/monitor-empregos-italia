@@ -1,23 +1,133 @@
 {
-  "updated_at": "2026-11-19T21:44:00+00:00",
+  "updated_at": "2026-11-20T21:27:21+00:00",
   "coverage": {
     "Restworld": {
-      "status": "falhou",
-      "checked_at": "2026-11-19T21:44:00+00:00",
-      "detail": "HTTP Error 401: Unauthorized"
+      "status": "público concluído",
+      "checked_at": "2026-11-20T21:27:21+00:00",
+      "found": 7
     },
     "Rysto": {
-      "status": "falhou",
-      "checked_at": "2026-11-19T21:44:00+00:00",
-      "detail": "HTTP Error 401: Unauthorized"
+      "status": "público concluído",
+      "checked_at": "2026-11-20T21:27:21+00:00",
+      "found": 29
     },
     "RestartGO": {
-      "status": "falhou",
-      "checked_at": "2026-11-19T21:44:00+00:00",
-      "detail": "HTTP Error 401: Unauthorized"
+      "status": "público concluído",
+      "checked_at": "2026-11-20T21:27:21+00:00",
+      "found": 0
     }
   },
   "jobs": [
+    {
+      "id": "d29329b96d0c50912951",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per trattoria Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-carpi-eod",
+      "details": "Addetto/a cucina per trattoria Addetto cucina€1.100 - 1.300 netti Part time Trattoria Bar Cantone Carpi 20/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
+    },
+    {
+      "id": "d6004f81f957f14d53a9",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per agriturismo Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-vetralla-osa",
+      "details": "Aiuto cuoco/a per agriturismo Aiuto cuoco€1.400 - 1.500 netti Part time Le Moline Vetralla 20/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
+    },
+    {
+      "id": "7804a6f9423ac7de848b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a banco per birreria Addetto banco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-grantorto-lfp",
+      "details": "Addetto/a banco per birreria Addetto banco€1.600 - 1.900 netti Full time Ruggine•Birreria Contemporanea Grantorto 20/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
+    },
+    {
+      "id": "5abdedbbd5343f5d7ccf",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per ristorante pizzeria informale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-cusano_milanino-uoq",
+      "details": "Cameriere/a per ristorante pizzeria informale Cameriere€1.700 netti Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/9ba8467a5b8e4d22915a7aadae4c8dfe.jpeg?w=3840) Pour Parler Cusano Milanino 20/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
+    },
+    {
+      "id": "b15d7b0122ca1b71a768",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pasticciere/a per pasticceria e caffetteria Pasticciere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pasticciere-frosinone-kin",
+      "details": "Pasticciere/a per pasticceria e caffetteria Pasticciere€1.950 - 2.700 lordi Full time Chocolart Frosinone 20/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": null
+    },
+    {
+      "id": "96e98c5bb550f18c7201",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a per Beach club e ristorante vista mare Pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-arenella-zpb",
+      "details": "Pizzaiolo/a per Beach club e ristorante vista mare Pizzaiolo€1.800 - 2.500 netti Full time Samoa Club Arenella 20/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": true,
+      "alerted_at": null
+    },
     {
       "id": "12a1f006d4fe2d36b8c6",
       "source": "Restworld",
@@ -9117,113 +9227,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-23T13:44:26+00:00",
       "last_seen": "2026-09-24T13:45:31+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "6f67347595c4cc3b2302",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel informale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-sauze_d-oulx-kes",
-      "details": "Cameriere/a per hotel informale Cameriere€1600-1800 Full time Hotel Stella Alpina Sauze d'Oulx 14/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-14T13:46:32+00:00",
-      "last_seen": "2026-09-20T13:41:01+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "415bf107303878fc2646",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel informale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-sauze_d-oulx-svs",
-      "details": "Cameriere/a per hotel informale Cameriere€1600-1800 Full time (40 ore settimanali) Hotel Stella Alpina Sauze d'Oulx 31/08/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-01T13:43:34+00:00",
-      "last_seen": "2026-09-01T13:43:34+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "da7fc65eab5df1e13755",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel ristorante informale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-antey-saint-andre-kiy",
-      "details": "Cameriere/a per hotel ristorante informale Cameriere€1700-2000 Full time ![Image 19](https://restworld-assets.s3.amazonaws.com/88aa4ee631624a25a6a68a9a1eb1c238.jpg?w=3840) Albergo Maison Tissiere Antey-Saint-André 03/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-03T13:43:25+00:00",
-      "last_seen": "2026-09-07T13:45:03+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "72db769288e23c6b65a9",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per pizzeria Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-legnano-qyu",
-      "details": "Cameriere/a per pizzeria Cameriere€22.9k - 27.5k RAL Full time ![Image 9](https://restworld-assets.s3.amazonaws.com/133a124a5d334dd780db8d66e5d96d1c.png?w=3840) Urban Lycios Legnano 15/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-18T21:31:38+00:00",
-      "last_seen": "2026-11-18T21:31:38+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "aaa7131ecf70de96f445",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Runner per ristorante Runner",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-runner-gallio-lfb",
-      "details": "Runner per ristorante Runner€1.150 - 1.350 netti Full time ![Image 10](https://restworld-assets.s3.amazonaws.com/e9e0819de04b4e23bd6b9f8dbc1ff4e3.jpg?w=3840) Lemelae Gallio 14/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-18T21:31:38+00:00",
-      "last_seen": "2026-11-18T21:31:38+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "2119a2e5b667fabdbcf5",
-      "source": "Rysto",
-      "confidence": "média",
-      "title": "Cercasi camerieri/e di sala",
-      "url": "https://www.rysto.com/it/novitatem-srl/il-moro-brescia/cercasi-camerierie-di-sala-20260930",
-      "details": "il moro | brescia | Tempo parziale | 30/09/2026",
-      "priority": 1,
-      "reasons": [
-        "sem experiência longa explícita"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-30T18:31:42+00:00",
-      "last_seen": "2026-10-14T18:08:12+00:00",
       "active": false,
       "alerted_at": null
     }
