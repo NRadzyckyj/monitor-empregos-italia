@@ -1,130 +1,110 @@
 {
-  "updated_at": "2026-11-20T21:27:21+00:00",
+  "updated_at": "2026-11-21T20:12:43+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-20T21:27:21+00:00",
+      "checked_at": "2026-11-21T20:12:43+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-20T21:27:21+00:00",
-      "found": 29
+      "checked_at": "2026-11-21T20:12:43+00:00",
+      "found": 0
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-20T21:27:21+00:00",
+      "checked_at": "2026-11-21T20:12:43+00:00",
       "found": 0
     }
   },
   "jobs": [
     {
-      "id": "d29329b96d0c50912951",
+      "id": "a25dc176fc6c5c67603b",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a cucina per trattoria Addetto cucina",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-carpi-eod",
-      "details": "Addetto/a cucina per trattoria Addetto cucina€1.100 - 1.300 netti Part time Trattoria Bar Cantone Carpi 20/11/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
-      "active": true,
-      "alerted_at": "2026-11-20T21:27:21+00:00"
-    },
-    {
-      "id": "d6004f81f957f14d53a9",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Aiuto cuoco/a per agriturismo Aiuto cuoco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-vetralla-osa",
-      "details": "Aiuto cuoco/a per agriturismo Aiuto cuoco€1.400 - 1.500 netti Part time Le Moline Vetralla 20/11/26",
-      "priority": 6,
-      "reasons": [
-        "temporário/part-time",
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
-      "active": true,
-      "alerted_at": "2026-11-20T21:27:21+00:00"
-    },
-    {
-      "id": "7804a6f9423ac7de848b",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Addetto/a banco per birreria Addetto banco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-grantorto-lfp",
-      "details": "Addetto/a banco per birreria Addetto banco€1.600 - 1.900 netti Full time Ruggine•Birreria Contemporanea Grantorto 20/11/26",
+      "title": "Aiuto cuoco/a per ristorante Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-asti-ttr",
+      "details": "Aiuto cuoco/a per ristorante Aiuto cuoco€1.300 - 1.600 netti Full time Volli Restaurant Asti 21/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
       "active": true,
-      "alerted_at": "2026-11-20T21:27:21+00:00"
+      "alerted_at": "2026-11-21T20:12:43+00:00"
     },
     {
-      "id": "5abdedbbd5343f5d7ccf",
+      "id": "55fa1428d446a9f0f48a",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per ristorante pizzeria informale Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-cusano_milanino-uoq",
-      "details": "Cameriere/a per ristorante pizzeria informale Cameriere€1.700 netti Full time ![Image 1](https://restworld-assets.s3.amazonaws.com/9ba8467a5b8e4d22915a7aadae4c8dfe.jpeg?w=3840) Pour Parler Cusano Milanino 20/11/26",
+      "title": "Banconista bar per wine bar Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-arabba-rva",
+      "details": "Banconista bar per wine bar Banconista bar€1.600 - 1.700 netti Full time Wine Bar Heidi Arabba 21/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
       "active": true,
-      "alerted_at": "2026-11-20T21:27:21+00:00"
+      "alerted_at": "2026-11-21T20:12:43+00:00"
     },
     {
-      "id": "b15d7b0122ca1b71a768",
+      "id": "05bf650409e4804cbf92",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Pasticciere/a per pasticceria e caffetteria Pasticciere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pasticciere-frosinone-kin",
-      "details": "Pasticciere/a per pasticceria e caffetteria Pasticciere€1.950 - 2.700 lordi Full time Chocolart Frosinone 20/11/26",
+      "title": "Cameriere/a per fattoria con cucina Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-melizzano-grj",
+      "details": "Cameriere/a per fattoria con cucina Cameriere€1.300 - 1.500 netti Full time Flaneur Fattoria con Cucina Melizzano 21/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
       "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-11-21T20:12:43+00:00"
     },
     {
-      "id": "96e98c5bb550f18c7201",
+      "id": "a7e554754ce82d71c236",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Pizzaiolo/a per Beach club e ristorante vista mare Pizzaiolo",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-arenella-zpb",
-      "details": "Pizzaiolo/a per Beach club e ristorante vista mare Pizzaiolo€1.800 - 2.500 netti Full time Samoa Club Arenella 20/11/26",
+      "title": "Receptionist per agriturismo Receptionist",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-receptionist-roma-uul",
+      "details": "Receptionist per agriturismo Receptionist€1.400 - 1.600 netti Full time Il Casale Di Roma Roma 21/11/26",
       "priority": 3,
       "reasons": [
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-20T21:27:21+00:00",
-      "last_seen": "2026-11-20T21:27:21+00:00",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
+      "active": true,
+      "alerted_at": "2026-11-21T20:12:43+00:00"
+    },
+    {
+      "id": "cdb7d61b60fd0878ff19",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Receptionist per hotel Receptionist",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-receptionist-montecatini_terme-vxu",
+      "details": "Receptionist per hotel Receptionist€1.500 - 1.700 netti Full time Hotel Ercolini e Savi Montecatini Terme 21/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
       "active": true,
       "alerted_at": null
     },
@@ -1193,6 +1173,25 @@
       "alerted_at": "2026-11-05T20:46:29+00:00"
     },
     {
+      "id": "d29329b96d0c50912951",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per trattoria Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-carpi-eod",
+      "details": "Addetto/a cucina per trattoria Addetto cucina€1.100 - 1.300 netti Part time Trattoria Bar Cantone Carpi 20/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": false,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
+    },
+    {
       "id": "d8068f93ac436a4b2a23",
       "source": "Restworld",
       "confidence": "alta",
@@ -1229,6 +1228,25 @@
       "last_seen": "2026-10-05T21:17:27+00:00",
       "active": false,
       "alerted_at": "2026-10-01T18:59:05+00:00"
+    },
+    {
+      "id": "d6004f81f957f14d53a9",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per agriturismo Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-vetralla-osa",
+      "details": "Aiuto cuoco/a per agriturismo Aiuto cuoco€1.400 - 1.500 netti Part time Le Moline Vetralla 20/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": false,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
     },
     {
       "id": "306d92be4d6def363f9a",
@@ -4873,6 +4891,24 @@
       "last_seen": "2026-11-18T21:31:38+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "7804a6f9423ac7de848b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a banco per birreria Addetto banco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-banco-grantorto-lfp",
+      "details": "Addetto/a banco per birreria Addetto banco€1.600 - 1.900 netti Full time Ruggine•Birreria Contemporanea Grantorto 20/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-20T21:27:21+00:00",
+      "last_seen": "2026-11-20T21:27:21+00:00",
+      "active": false,
+      "alerted_at": "2026-11-20T21:27:21+00:00"
     },
     {
       "id": "0ffd25fcbfc286777c0e",
@@ -9191,42 +9227,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-08-30T23:36:46+00:00",
       "last_seen": "2026-09-01T13:43:34+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "3f5717937fc367e44395",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-bardolino-kay",
-      "details": "Cameriere/a per hotel Cameriere€1700-2000 Full time (40 ore settimanali) Bardolino 28/08/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-09-01T13:43:34+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "5c6c8648e41b82cdea64",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel e ristorante formale Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-colleoli-awf",
-      "details": "Cameriere/a per hotel e ristorante formale Cameriere€23000-24500 Full time ![Image 11](https://restworld-assets.s3.amazonaws.com/9f830baba4da411c9079457ff253eaae.jpg?w=3840) Karma - Borgo di Colleoli Colleoli 23/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-23T13:44:26+00:00",
-      "last_seen": "2026-09-24T13:45:31+00:00",
       "active": false,
       "alerted_at": null
     }
