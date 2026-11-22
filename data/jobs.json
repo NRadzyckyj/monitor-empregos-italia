@@ -1,112 +1,60 @@
 {
-  "updated_at": "2026-11-21T20:12:43+00:00",
+  "updated_at": "2026-11-22T20:26:42+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-21T20:12:43+00:00",
+      "checked_at": "2026-11-22T20:26:42+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-21T20:12:43+00:00",
+      "checked_at": "2026-11-22T20:26:42+00:00",
       "found": 0
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-21T20:12:43+00:00",
+      "checked_at": "2026-11-22T20:26:42+00:00",
       "found": 0
     }
   },
   "jobs": [
     {
-      "id": "a25dc176fc6c5c67603b",
+      "id": "4ba4535572c626a44cfd",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Aiuto cuoco/a per ristorante Aiuto cuoco",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-asti-ttr",
-      "details": "Aiuto cuoco/a per ristorante Aiuto cuoco€1.300 - 1.600 netti Full time Volli Restaurant Asti 21/11/26",
-      "priority": 3,
+      "title": "Addetto/a cucina per hamburgeria Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-gallarate-uyg",
+      "details": "Addetto/a cucina per hamburgeria Addetto cucina€1.200 - 1.400 netti Part time FAB Gallarate - Burger & Craft Beer Gallarate 22/11/26",
+      "priority": 6,
       "reasons": [
+        "temporário/part-time",
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-21T20:12:43+00:00",
-      "last_seen": "2026-11-21T20:12:43+00:00",
+      "first_seen": "2026-11-22T20:26:42+00:00",
+      "last_seen": "2026-11-22T20:26:42+00:00",
       "active": true,
-      "alerted_at": "2026-11-21T20:12:43+00:00"
+      "alerted_at": "2026-11-22T20:26:42+00:00"
     },
     {
-      "id": "55fa1428d446a9f0f48a",
+      "id": "a85f860779f34e5def42",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Banconista bar per wine bar Banconista bar",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-arabba-rva",
-      "details": "Banconista bar per wine bar Banconista bar€1.600 - 1.700 netti Full time Wine Bar Heidi Arabba 21/11/26",
-      "priority": 3,
+      "title": "Cameriere/a per osteria tradizionale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ariccia-bje",
+      "details": "Cameriere/a per osteria tradizionale Cameriere€1.200 - 1.600 lordi Part time Dal Brigante Gasperone Ariccia 21/11/26",
+      "priority": 6,
       "reasons": [
+        "temporário/part-time",
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-21T20:12:43+00:00",
-      "last_seen": "2026-11-21T20:12:43+00:00",
+      "first_seen": "2026-11-22T20:26:42+00:00",
+      "last_seen": "2026-11-22T20:26:42+00:00",
       "active": true,
-      "alerted_at": "2026-11-21T20:12:43+00:00"
-    },
-    {
-      "id": "05bf650409e4804cbf92",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per fattoria con cucina Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-melizzano-grj",
-      "details": "Cameriere/a per fattoria con cucina Cameriere€1.300 - 1.500 netti Full time Flaneur Fattoria con Cucina Melizzano 21/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-21T20:12:43+00:00",
-      "last_seen": "2026-11-21T20:12:43+00:00",
-      "active": true,
-      "alerted_at": "2026-11-21T20:12:43+00:00"
-    },
-    {
-      "id": "a7e554754ce82d71c236",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Receptionist per agriturismo Receptionist",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-receptionist-roma-uul",
-      "details": "Receptionist per agriturismo Receptionist€1.400 - 1.600 netti Full time Il Casale Di Roma Roma 21/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-21T20:12:43+00:00",
-      "last_seen": "2026-11-21T20:12:43+00:00",
-      "active": true,
-      "alerted_at": "2026-11-21T20:12:43+00:00"
-    },
-    {
-      "id": "cdb7d61b60fd0878ff19",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Receptionist per hotel Receptionist",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-receptionist-montecatini_terme-vxu",
-      "details": "Receptionist per hotel Receptionist€1.500 - 1.700 netti Full time Hotel Ercolini e Savi Montecatini Terme 21/11/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-21T20:12:43+00:00",
-      "last_seen": "2026-11-21T20:12:43+00:00",
-      "active": true,
-      "alerted_at": null
+      "alerted_at": "2026-11-22T20:26:42+00:00"
     },
     {
       "id": "12a1f006d4fe2d36b8c6",
@@ -6459,6 +6407,24 @@
       "alerted_at": "2026-10-11T18:22:28+00:00"
     },
     {
+      "id": "a25dc176fc6c5c67603b",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Aiuto cuoco/a per ristorante Aiuto cuoco",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-aiuto-cuoco-asti-ttr",
+      "details": "Aiuto cuoco/a per ristorante Aiuto cuoco€1.300 - 1.600 netti Full time Volli Restaurant Asti 21/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
+      "active": false,
+      "alerted_at": "2026-11-21T20:12:43+00:00"
+    },
+    {
       "id": "764de45a7e9df8eb6847",
       "source": "Restworld",
       "confidence": "alta",
@@ -8151,6 +8117,24 @@
       "alerted_at": "2026-11-06T20:02:14+00:00"
     },
     {
+      "id": "55fa1428d446a9f0f48a",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Banconista bar per wine bar Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-arabba-rva",
+      "details": "Banconista bar per wine bar Banconista bar€1.600 - 1.700 netti Full time Wine Bar Heidi Arabba 21/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
+      "active": false,
+      "alerted_at": "2026-11-21T20:12:43+00:00"
+    },
+    {
       "id": "4084c1ab7004bc5dcd49",
       "source": "Restworld",
       "confidence": "alta",
@@ -9103,6 +9087,24 @@
       "last_seen": "2026-09-29T18:49:05+00:00",
       "active": false,
       "alerted_at": null
+    },
+    {
+      "id": "05bf650409e4804cbf92",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per fattoria con cucina Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-melizzano-grj",
+      "details": "Cameriere/a per fattoria con cucina Cameriere€1.300 - 1.500 netti Full time Flaneur Fattoria con Cucina Melizzano 21/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-21T20:12:43+00:00",
+      "last_seen": "2026-11-21T20:12:43+00:00",
+      "active": false,
+      "alerted_at": "2026-11-21T20:12:43+00:00"
     },
     {
       "id": "6cd5ee46ef701f86f484",
