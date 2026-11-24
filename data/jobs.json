@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-22T20:26:42+00:00",
+  "updated_at": "2026-11-24T01:09:12+00:00",
   "coverage": {
     "Restworld": {
       "status": "público concluído",
-      "checked_at": "2026-11-22T20:26:42+00:00",
+      "checked_at": "2026-11-24T01:09:12+00:00",
       "found": 7
     },
     "Rysto": {
       "status": "público concluído",
-      "checked_at": "2026-11-22T20:26:42+00:00",
+      "checked_at": "2026-11-24T01:09:12+00:00",
       "found": 0
     },
     "RestartGO": {
       "status": "público concluído",
-      "checked_at": "2026-11-22T20:26:42+00:00",
+      "checked_at": "2026-11-24T01:09:12+00:00",
       "found": 0
     }
   },
   "jobs": [
     {
-      "id": "4ba4535572c626a44cfd",
+      "id": "9b05a8e2cd51fb1f3f75",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Addetto/a cucina per hamburgeria Addetto cucina",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-gallarate-uyg",
-      "details": "Addetto/a cucina per hamburgeria Addetto cucina€1.200 - 1.400 netti Part time FAB Gallarate - Burger & Craft Beer Gallarate 22/11/26",
+      "title": "Banconista bar per bistrot e bakery Banconista bar",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-banconista-bar-bologna-fgj",
+      "details": "Banconista bar per bistrot e bakery Banconista bar€700 - 1.000 netti Part time AMALI - Cafè, Bakery & Bistrot Bologna 23/11/26",
       "priority": 6,
       "reasons": [
         "temporário/part-time",
@@ -32,29 +32,46 @@
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-22T20:26:42+00:00",
-      "last_seen": "2026-11-22T20:26:42+00:00",
+      "first_seen": "2026-11-24T01:09:12+00:00",
+      "last_seen": "2026-11-24T01:09:12+00:00",
       "active": true,
-      "alerted_at": "2026-11-22T20:26:42+00:00"
+      "alerted_at": "2026-11-24T01:09:12+00:00"
     },
     {
-      "id": "a85f860779f34e5def42",
+      "id": "3256aaa83e8d338398d4",
       "source": "Restworld",
       "confidence": "alta",
-      "title": "Cameriere/a per osteria tradizionale Cameriere",
-      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ariccia-bje",
-      "details": "Cameriere/a per osteria tradizionale Cameriere€1.200 - 1.600 lordi Part time Dal Brigante Gasperone Ariccia 21/11/26",
-      "priority": 6,
+      "title": "Addetto/a cucina per bistrot Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-bologna-qrs",
+      "details": "Addetto/a cucina per bistrot Addetto cucina€1.400 - 1.600 netti Full time AMALI - Cafè, Bakery & Bistrot Bologna 23/11/26",
+      "priority": 3,
       "reasons": [
-        "temporário/part-time",
         "sem experiência longa explícita",
         "fonte verificada"
       ],
       "status": "início/idioma a confirmar",
-      "first_seen": "2026-11-22T20:26:42+00:00",
-      "last_seen": "2026-11-22T20:26:42+00:00",
+      "first_seen": "2026-11-24T01:09:12+00:00",
+      "last_seen": "2026-11-24T01:09:12+00:00",
       "active": true,
-      "alerted_at": "2026-11-22T20:26:42+00:00"
+      "alerted_at": "2026-11-24T01:09:12+00:00"
+    },
+    {
+      "id": "d86805ba492fc9951497",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Pizzaiolo/a per pizzeria e ristorante Pizzaiolo",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-pizzaiolo-lipomo-nhj",
+      "details": "Pizzaiolo/a per pizzeria e ristorante Pizzaiolo€1.900 - 2.300 netti Full time Delfino Blu Lipomo 23/11/26",
+      "priority": 3,
+      "reasons": [
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-24T01:09:12+00:00",
+      "last_seen": "2026-11-24T01:09:12+00:00",
+      "active": true,
+      "alerted_at": "2026-11-24T01:09:12+00:00"
     },
     {
       "id": "12a1f006d4fe2d36b8c6",
@@ -967,6 +984,25 @@
       "last_seen": "2026-09-23T13:44:26+00:00",
       "active": false,
       "alerted_at": "2026-09-22T13:44:27+00:00"
+    },
+    {
+      "id": "4ba4535572c626a44cfd",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Addetto/a cucina per hamburgeria Addetto cucina",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-addetto-cucina-gallarate-uyg",
+      "details": "Addetto/a cucina per hamburgeria Addetto cucina€1.200 - 1.400 netti Part time FAB Gallarate - Burger & Craft Beer Gallarate 22/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-22T20:26:42+00:00",
+      "last_seen": "2026-11-22T20:26:42+00:00",
+      "active": false,
+      "alerted_at": "2026-11-22T20:26:42+00:00"
     },
     {
       "id": "31e903b424fffefa79a8",
@@ -2924,6 +2960,25 @@
       "last_seen": "2026-09-07T13:45:03+00:00",
       "active": false,
       "alerted_at": "2026-09-03T13:43:25+00:00"
+    },
+    {
+      "id": "a85f860779f34e5def42",
+      "source": "Restworld",
+      "confidence": "alta",
+      "title": "Cameriere/a per osteria tradizionale Cameriere",
+      "url": "https://www.restworld.it/posizione/offerta-di-lavoro-cameriere-ariccia-bje",
+      "details": "Cameriere/a per osteria tradizionale Cameriere€1.200 - 1.600 lordi Part time Dal Brigante Gasperone Ariccia 21/11/26",
+      "priority": 6,
+      "reasons": [
+        "temporário/part-time",
+        "sem experiência longa explícita",
+        "fonte verificada"
+      ],
+      "status": "início/idioma a confirmar",
+      "first_seen": "2026-11-22T20:26:42+00:00",
+      "last_seen": "2026-11-22T20:26:42+00:00",
+      "active": false,
+      "alerted_at": "2026-11-22T20:26:42+00:00"
     },
     {
       "id": "469dd624a7e657ad22b2",
@@ -9175,60 +9230,6 @@
       "status": "início/idioma a confirmar",
       "first_seen": "2026-09-15T13:44:52+00:00",
       "last_seen": "2026-09-19T13:40:33+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "c36677fea250e778f56d",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-staffa-jjg",
-      "details": "Cameriere/a per hotel Cameriere€1800 Full time ![Image 21](https://restworld-assets.s3.amazonaws.com/70e4b3f8c7234ce091fcec8473039a24.jpg?w=3840) Hotel Signal Staffa 05/10/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-10-05T21:17:27+00:00",
-      "last_seen": "2026-10-06T19:00:09+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "95a1ef99f8932be2866b",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-codroipo-zui",
-      "details": "Cameriere/a per hotel Cameriere€1400-1600 Full time Nodo Hotel Codroipo 21/09/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-09-22T13:44:27+00:00",
-      "last_seen": "2026-09-26T17:22:08+00:00",
-      "active": false,
-      "alerted_at": null
-    },
-    {
-      "id": "bfac42be17b262086893",
-      "source": "Restworld",
-      "confidence": "alta",
-      "title": "Cameriere/a per hotel Cameriere",
-      "url": "http://www.restworld.it/posizione/offerta-di-lavoro-cameriere-riale-ekg",
-      "details": "Cameriere/a per hotel Cameriere€1450-2200 Full time (40 ore settimanali) Aalts Dorf Riale 29/08/26",
-      "priority": 3,
-      "reasons": [
-        "sem experiência longa explícita",
-        "fonte verificada"
-      ],
-      "status": "início/idioma a confirmar",
-      "first_seen": "2026-08-30T23:36:46+00:00",
-      "last_seen": "2026-09-01T13:43:34+00:00",
       "active": false,
       "alerted_at": null
     }
